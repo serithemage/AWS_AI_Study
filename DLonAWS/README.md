@@ -4,7 +4,8 @@
 
 [모듈1](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo1.ipynb)  
 [모듈2](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo2.ipynb)  
-[모듈3](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo3.ipynb)
+[모듈3](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo3.ipynb)  
+[MXNet Gluon Crash Course(한국어)](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb) MXNet의 고급 API인 Gluon의 처음 사용자용 튜토리얼 
 
 * * *
 
@@ -55,8 +56,7 @@
 
 ### MXNet  
 [Apache MXNet](https://mxnet.incubator.apache.org/)  
-[AWS 기반 Apache MXNet](https://aws.amazon.com/ko/mxnet/)  
-[MXNet Gluon Crash Course(한국어)](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb) MXNet의 고급 API인 Gluon의 처음 사용자용 튜토리얼  
+[AWS 기반 Apache MXNet](https://aws.amazon.com/ko/mxnet/)   
 [MXNet Youtube 체널](https://www.youtube.com/channel/UCQua2ZAkbr_Shsgfk1LCy6A)  
 [MXNet 튜토리얼](https://mxnet.apache.org/tutorials/index.html)  
 [Gluon 튜토리얼](https://gluon.mxnet.io/)  
