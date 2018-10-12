@@ -1,4 +1,4 @@
-# Deep Learning on AWS 학습 참고 자료집
+# Deep Learning on AWS 학습 자료집
 
 ## 데모
 
