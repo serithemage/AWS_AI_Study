@@ -1,4 +1,4 @@
-# Deep Learning on AWS 학습 참고자료집
+# Deep Learning on AWS 학습 참고 자료집
 
 ## 데모
 
@@ -8,7 +8,7 @@
 
 * * *
 
-## 실습 가이드 최신버전(http://bit.ly/dl-lab)
+## 실습 가이드 최신 버전(http://bit.ly/dl-lab)
 
 [Lab1](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-1-setup.html)  
 [Lab2](https://s3-ap-northeast-1.amazonaws.com/deeplearning-resato-demo/lab-2-cnn.md.html)  
