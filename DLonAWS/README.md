@@ -95,4 +95,4 @@
 [머티 GPU에 대한 딥 러닝 학습 스케일링을 위한 하이퍼 파라미터 튜닝의 중요성](https://aws.amazon.com/ko/blogs/machine-learning/the-importance-of-hyperparameter-tuning-for-scaling-deep-learning-training-to-multiple-gpus/)  
 [Amazon SageMaker의 오브젝트 감지 알고리즘 출시](https://aws.amazon.com/ko/blogs/machine-learning/object-detection-algorithm-now-available-in-amazon-sagemaker/)  
 [Amazon S3의 데이터를 AWS Glue 데이터 카탈로그에서 관리하고 Amazon SageMaker 노트북에서 사용하는 방법](https://aws.amazon.com/ko/blogs/machine-learning/access-amazon-s3-data-managed-by-aws-glue-data-catalog-from-amazon-sagemaker-notebooks/)  
-
+[수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기위한 학습법 소개](http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html)
