@@ -14,70 +14,82 @@
 [Lab2](https://s3-ap-northeast-1.amazonaws.com/deeplearning-resato-demo/lab-2-cnn.md.html)  
 [Lab3](https://s3-ap-northeast-1.amazonaws.com/deeplearning-resato-demo/lab-3-lambda.md.html)
 
-### AWS AI 서비스 관련 온라인 강의(무료)
+## AWS AI 서비스 관련 온라인 강의(무료)
 
-[전체 AI 관련 강의 리스트](https://www.aws.training/Training?searchPhrase=%EB%B6%84%EC%95%BC-%EC%9D%B8%EA%B3%B5%20%EC%A7%80%EB%8A%A5(AI)&searchPhrase=enrollment_id_1
-)
-[Introduction to AWS Machine Learning Services (日本語字幕版)](https://kiku.aws.training/learningobject/video?id=21762)  
-[Introduction to Machine Learning (日本語字幕版)](https://kiku.aws.training/learningobject/video?id=21761)  
-[Introduction to Deep Learning(日本語字幕版)](https://kiku.aws.training/learningobject/video?id=21763)  
-[Introduction to AWS Greengrass(日本語字幕版)](https://kiku.aws.training/learningobject/video?id=21740)  
-[Introduction to Artificial Intelligence(日本語字幕版)](https://kiku.aws.training/learningobject/video?id=21765)  
-[Introduction to Amazon SageMaker(日本語字幕版)](https://kiku.aws.training/learningobject/video?id=21764)  
-[Introduction to Amazon Rekognition(日本語字幕版)](https://kiku.aws.training/learningobject/video?id=21759)  
-[Introduction to Amazon Polly(日本語字幕版)](https://kiku.aws.training/learningobject/video?id=21742)  
-[Introduction to Amazon Lex(日本語字幕版)](https://kiku.aws.training/learningobject/video?id=21739)  
-[Introduction to Amazon Comprehend(日本語字幕版)](https://kiku.aws.training/learningobject/video?id=21760)  
-※受講にはトレーニングポータルサイトkikuのアカウントが必要です
+[AI 온라인 강의(전체 목록)](https://www.aws.training/Training?searchPhrase=%EB%B6%84%EC%95%BC-%EC%9D%B8%EA%B3%B5%20%EC%A7%80%EB%8A%A5(AI)&searchPhrase=%ED%95%9C%EA%B5%AD%EC%96%B4&searchPhrase=enrollment_id_1)  
+[Introduction to Machine Learning (한국어)](https://www.aws.training/learningobject/video?id=22177)  
+[Introduction to Deep Learning(한국어)](https://www.aws.training/learningobject/video?id=22242)  
+[Introduction to AWS Machine Learning Services (한국어)](https://www.aws.training/learningobject/video?id=22125)  
+[Introduction to Artificial Intelligence(한국어)](https://www.aws.training/learningobject/video?id=22239)  
+[Introduction to Amazon SageMaker(한국어)](https://www.aws.training/learningobject/video?id=22245)  
+[Introduction to Amazon Lex(한국어)](https://www.aws.training/learningobject/video?id=22175)  
+[Introduction to Amazon Polly(한국어)](https://www.aws.training/learningobject/video?id=22165)  
+[Introduction to Amazon Rekognition(한국어)](https://www.aws.training/learningobject/video?id=22172)  
+[Introduction to Amazon Comprehend(한국어)](https://www.aws.training/learningobject/video?id=22248)  
+※수강을 위해서는 AWS 트레이닝 포털에 계정등록을 하실 필요가 있습니다.
 
 * * *
 
-### 参考情報(#参考情報)
+## 워크샵 자료
+[AWS AI Bootcamp Labs](https://github.com/aws-samples/aws-ai-bootcamp-labs)  
+[AWS AI/ML Workshop](https://github.com/aws-samples/aws-ai-ml-workshop-kr)  
+[AWS DeepLens기반 시각인식 ML](https://github.com/awskrug/datascience-group/tree/master/workshop-DeepLens)  
+[2018 AWSKRUG hands-on: Amazon SageMaker를 사용한 고객 이탈 예측과 색상 분류 모델 만들기](https://github.com/awskrug/handson-labs-2018/tree/master/DataAnalysis/2_ModelTraining)   
 
-**機械学習**  
-[Wiki（機械学習）](https://ja.wikipedia.org/wiki/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92)  
-[AWS での機械学習](https://aws.amazon.com/jp/machine-learning/)
+* * *
 
-**Deep Learning**  
-[Deep Learning on AWS](https://aws.amazon.com/jp/deep-learning/)  
-[Wiki（ディープラーニング）](https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0)  
-[CNNの階層構造](http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)  
+## 참고자료
 
-[Distributed (Deep) Machine Learning Community](https://github.com/dmlc)
+### 기계 학습  
+[기계 학습（wikipedia）](https://ko.wikipedia.org/wiki/%EA%B8%B0%EA%B3%84_%ED%95%99%EC%8A%B5)  
+[AWS에서의 기계 학습](https://aws.amazon.com/ko/machine-learning/)  
+[AWS 기계 학습 블로그](https://aws.amazon.com/ko/blogs/machine-learning/)  
+[한국AWS사용자그룹 데이터사이언스 모임 자료](https://github.com/awskrug/datascience-group)
 
-**MXNet**  
-[MXNetサイト](https://mxnet.incubator.apache.org/)　APIリファレンス、チュートリアルなど  
-[AWSでのApache MXNet](https://aws.amazon.com/jp/mxnet/)  
-[MXNet Examples](https://github.com/apache/incubator-mxnet/tree/master/example) 様々なExample  
+### Deep Learning  
+[Deep Learning on AWS](https://aws.amazon.com/ko/deep-learning/)  
+[딥 러닝（wikipedia）](https://ko.wikipedia.org/wiki/%EB%94%A5_%EB%9F%AC%EB%8B%9D)  
+[합성곱 신경망(wikipedia)](http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)  
+[Distributed (Deep) Machine Learning Community](https://github.com/dmlc)  
+[모두를 위한 딥러닝 강의](http://hunkim.github.io/ml/)  
 
-[スケーラブルな Deep Leaning フレームワーク "Apache MXNet” を AWS で学ぶ](https://www.slideshare.net/AmazonWebServicesJapan/deep-leaning-apache-mxnet-aws)
+### MXNet  
+[Apache MXNet](https://mxnet.incubator.apache.org/)  
+[AWS 기반 Apache MXNet](https://aws.amazon.com/ko/mxnet/)  
+[MXNet Gluon Crash Course(한국어)](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb) MXNet의 고급 API인 Gluon의 처음 사용자용 튜토리얼  
+[MXNet Youtube 체널](https://www.youtube.com/channel/UCQua2ZAkbr_Shsgfk1LCy6A)  
+[MXNet 튜토리얼](https://mxnet.apache.org/tutorials/index.html)  
+[Gluon 튜토리얼](https://gluon.mxnet.io/)  
+[MXNet 예제들](https://github.com/apache/incubator-mxnet/tree/master/example)  
+[Keras-MXNet vs Keras-TensorFlow Benchmarks](https://github.com/awslabs/keras-apache-mxnet/tree/master/benchmark)
+[유연하고, 빠른 딥러닝 프레임워크 Apache MXNet, Gluon - AWS Summit Seoul 2018(김무현)](https://www.slideshare.net/awskorea/detailed-look-into-deep-learning-training-using-apache-mxnetmuhyun-kimaws-summit-seoul-2018)  
 
-**AWS**  
-[AWS Black Belt Online Seminor Amazon SageMaker 2018/3/8](https://aws.amazon.com/jp/blogs/news/aws-black-belt-online-seminar-amazon-sagemaker/)  
-[AWSオンラインセミナー](https://aws.amazon.com/jp/about-aws/events/webinars/)  
-[AWSクラウドサービス資料集](https://aws.amazon.com/jp/aws-jp-introduction/)  
+### AWS
+[AWS GitHub](https://github.com/aws)  
+[SageMaker Python SDK](https://github.com/aws/sagemaker-python-sdk) Amazon SageMaker에서 기계 학습 모델을 학습하고 배포하기 위한 라이브러리  
 
-[AWS GitHub](https://github.com/aws) MXNetやTensorFlowのDockerコンテナもあります
+[Amazon SageMaker를 이용한 예측 분석](https://www.slideshare.net/awskorea/predictive-analytics-with-amazon-sage-maker-ng)  
+[개발자가 알아두면 좋을 5가지 AWS 인공 지능 깨알 지식](https://www.slideshare.net/awskorea/5-things-to-know-about-aws-aiml-for-developers)  
+[AI 클라우드로 완전 정복하기 - 데이터 분석부터 딥러닝까지](https://www.slideshare.net/awskorea/aws-big-data-amazon-sagemaker-ai-con-2018)  
+[AWS와 Alexa 음성 인식 플랫폼을 통한 비즈니스 기회](https://www.slideshare.net/awskorea/aws-summit-alexaforbusinesschanny-yun-94930064)  
+[AWS의 새로운 언어, 음성, 텍스트 처리 인공지능 서비스](https://www.slideshare.net/awskorea/building-intelligent-apps-with-amazon)  
+[제조업의 AI/ML 고객 사례](https://www.slideshare.net/awskorea/aiml-customer-case-in-manufacturing-namgoong-younghwan)  
+[눈으로 보는 AWS 기반 인공지능 서비스 아키텍처 활용 데모](https://www.slideshare.net/awskorea/visual-demonstration-of-ai-on-aws-oliver-klein)  
+[AWS의 새로운 언어, 음성, 텍스트 처리 인공 지능 서비스, Amazon SageMaker](https://www.slideshare.net/awskorea/awss-new-integrated-deeprunning-service-amazon-sagemakersunil-mallyaaws-summit-seoul-2018)  
+[AWS를 활용한 상품 추천 서비스 구축 - AWS Summit Seoul 2018(김태현)](https://www.slideshare.net/awskorea/building-product-recommendation-service-using-aws-taehyun-kim)  
+[AWS 기반 인공지능 비디오 분석 서비스 소개](https://www.slideshare.net/awskorea/introducing-awsbased-artificial-intelligence-video-analysis-serviceranju-dasaws-summit-seoul-2018)  
+[Amazon Deeplens 와 컴퓨터 비전 딥러닝 어플리케이션 활용](https://www.slideshare.net/awskorea/aws-deeplens-and-deep-learning-applications-based-on-computer-visionsunil-mallyaaws-summit-seoul-2018)  
+[Amazon Rekognition을 이용하여 인공지능 안면 인식 키오스크 만들기](https://www.slideshare.net/awskorea/amazon-rekognition-facial-kiosk)  
+[AWS 머신러닝 서비스를 활용한 실시간 이미지 분석](https://www.slideshare.net/awskorea/aws-aws-91254779)  
+[AI 비지니스 무엇을 어떻게 준비하고 해야 하는가](https://www.slideshare.net/awskorea/ai-aws)  
+[Amazon Polly를 통한 서버리스 동화 구연 앱 만들기](https://www.slideshare.net/awskorea/amazon-polly-deep-dive)  
+[Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)  
 
-**事例＆ブログ**  
-[英王室Royal Wedding](https://twitter.com/awscloud_jp/status/998868970265440256)  
 
-[日本経済新聞社"ＡＩ 記者"の生みの親～「テクノロジーメディア」への挑戦](https://d1.awsstatic.com/events/jp/2017/summit/slide/D4T5-3.pdf)　AWS Summit Tokyo 2017セッション資料  
-[クックパッドの機械学習を支える基盤のつくりかた](https://d1.awsstatic.com/events/jp/2017/summit/slide/D3T5-2.pdf)　AWS Summit Tokyo 2017セッション資料  
-[Gunosy における AWS 上での自然言語処理・機械学習の活用事例](https://d1.awsstatic.com/events/jp/2017/summit/devday/D2T8-6.pdf)　AWS Summit Tokyo 2017セッション資料  
-[AWS re:Invent 2016: Zillow Group: Developing Classification and Recommendation Engines with Amazon EMR and Apache Spark (MAC303)](https://www.slideshare.net/AmazonWebServices/aws-reinvent-2016-zillow-group-developing-classification-and-recommendation-engines-with-amazon-emr-and-apache-spark-mac303) 　AWS re:Invent 2016資料  
 
-[Amazon S3 のデータを AWS Glue データカタログで管理し、Amazon SageMaker ノートブックから利用する方法](https://aws.amazon.com/jp/blogs/news/access-amazon-s3-data-managed-by-aws-glue-data-catalog-from-amazon-sagemaker-notebooks/)  
-[AWS Lambda および Tensorflow を使用してディープラーニングモデルをデプロイする方法](https://aws.amazon.com/jp/blogs/news/how-to-deploy-deep-learning-models-with-aws-lambda-and-tensorflow/)  
-[Amazon SageMaker MXNet 1.2 コンテナの発表](https://aws.amazon.com/jp/blogs/news/announcing-the-amazon-sagemaker-mxnet-1-2-container/)  
-[Scikit Docker コンテナを構築して、Amazon SageMaker で Scikit-learnモデルのトレーニングとホストを行う](https://aws.amazon.com/jp/blogs/news/train-and-host-scikit-learn-models-in-amazon-sagemaker-by-building-a-scikit-docker-container/)  
+### 사례 소개 및 블로그
+[영국 왕실 결혼식 중계에서 유명인사 실시간 식별 사례](https://www.elemental.com/newsroom/blog/sky-news-aws-bring-ml-mainstream-live-video-royal-wedding-whos-who)  
+[아마존의 딥러닝 기술 활용 사례](https://www.slideshare.net/awskorea/amazon-deeplearningcasesandmlonaws)  
+[일본경제신문사 "AI 기자" 제작자가 말하는 테크놀러지 미디어에의 도전](https://d1.awsstatic.com/events/jp/2017/summit/slide/D4T5-3.pdf)  
+[머티 GPU에 대한 딥 러닝 학습 스케일링을 위한 하이퍼 파라미터 튜닝의 중요성](https://aws.amazon.com/ko/blogs/machine-learning/the-importance-of-hyperparameter-tuning-for-scaling-deep-learning-training-to-multiple-gpus/)
 
-[複数の GPU に対する深層学習トレーニングをスケーリングするためのハイパーパラメーターの調整の重要性](https://aws.amazon.com/jp/blogs/news/the-importance-of-hyperparameter-tuning-for-scaling-deep-learning-training-to-multiple-gpus/)  
-[Object Detection algorithm now available in Amazon SageMaker](https://aws.amazon.com/jp/blogs/machine-learning/object-detection-algorithm-now-available-in-amazon-sagemaker/)  
-[Amazon SageMaker 自動モデルチューニング: 機械学習のために機械学習を使用する](https://aws.amazon.com/jp/blogs/news/sagemaker-automatic-model-tuning/)  
-[AWS PrivateLink を使用した Amazon SageMaker で、セキュアな予測呼び出し](https://aws.amazon.com/jp/blogs/news/secure-prediction-calls-in-amazon-sagemaker-with-aws-privatelink/)  
-[Amazon SageMaker の因数分解機を使った、ムービーレコメンダーを構築する](https://aws.amazon.com/jp/blogs/news/build-a-movie-recommender-with-factorization-machines-on-amazon-sagemaker/)  
-[Amazon SageMaker を使用して、より迅速に大規模な主成分分析法を実行できます](https://aws.amazon.com/jp/blogs/news/perform-a-large-scale-principal-component-analysis-faster-using-amazon-sagemaker/?nc1=b_rp)  
-[異常検出にビルトイン Amazon SageMaker Random Cut Forest アルゴリズムを使用する](https://aws.amazon.com/jp/blogs/news/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/?nc1=b_rp)  
-[Amazon SageMaker での機械学習で、Amazon Pinpoint キャンペーンを加速](https://aws.amazon.com/jp/blogs/news/amazon-pinpoint-campaigns-driven-by-machine-learning-on-amazon-sagemaker/?nc1=b_rp)  
-[その他機械学習系ブログ（US）](https://aws.amazon.com/jp/blogs/machine-learning/)
