@@ -44,6 +44,7 @@
 [AWS 기계 학습 블로그](https://aws.amazon.com/ko/blogs/machine-learning/)  
 [한국AWS사용자그룹 데이터사이언스 모임 자료](https://github.com/awskrug/datascience-group)  
 [KAIST 기계 학습 강좌](https://aailab.kaist.ac.kr/xe2/index.php?mid=page_lMmY25&act=dispPageIndex)  
+[Andrew Ng의 Coursera Deep Learning 강의(한글자막)](https://www.coursera.org/specializations/deep-learning)  
 
 ### Deep Learning  
 [Deep Learning on AWS](https://aws.amazon.com/ko/deep-learning/)  
@@ -51,9 +52,20 @@
 [합성곱 신경망(wikipedia)](https://ko.wikipedia.org/wiki/%EB%94%A5_%EB%9F%AC%EB%8B%9D#%ED%95%A9%EC%84%B1%EA%B3%B1_%EC%8B%A0%EA%B2%BD%EB%A7%9D(Convolutional_Neural_Network,_CNN))  
 [GPU컴퓨팅(namuwiki)](https://namu.wiki/w/GPGPU)  
 [GPU컴퓨팅(wikipedia)](https://ko.wikipedia.org/wiki/GPGPU)  
-
 [Distributed (Deep) Machine Learning Community](https://github.com/dmlc)  
 [모두를 위한 딥러닝 강의](http://hunkim.github.io/ml/)  
+
+### Python ###
+[Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)  
+[Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+3T2018/course/)  
+
+Python 주요 라이브러리  
+[Pandas](https://pandas.pydata.org/)  
+[NumPy](http://www.numpy.org/)  
+[Scikit-learn](http://scikit-learn.org/)  
+[Matplotlib](https://matplotlib.org/)  
+[SciPy](https://www.scipy.org/)  
+
 
 ### MXNet  
 [Apache MXNet](https://mxnet.incubator.apache.org/)  
