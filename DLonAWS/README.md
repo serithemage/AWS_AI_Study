@@ -1,4 +1,4 @@
-# Deep Learning on AWS 학습 자료집
+# Deep Learning on AWS 학습 자료집(http://bit.ly/dlonaws)
 
 ## 데모  
 [모듈1](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo1.ipynb)  
