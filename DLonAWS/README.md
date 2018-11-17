@@ -9,8 +9,8 @@
 ## 실습 가이드 최신 버전(http://bit.ly/dl-lab)  
 
 [Lab1](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-1-setup.html)  
-[Lab2](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-2-cnn.md.html)  
-[Lab3](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-3-lambda.md.html)  
+[Lab2](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-2-cnn.html)  
+[Lab3](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-3-lambda.html)  
 
 ## AWS AI 서비스 관련 온라인 강의(무료)  
 
