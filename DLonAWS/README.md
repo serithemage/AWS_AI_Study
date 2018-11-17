@@ -104,10 +104,10 @@ Python 주요 라이브러리
 
 
 ### 사례 소개 및 블로그
+[AWS 기계 학습 블로그](https://aws.amazon.com/ko/blogs/machine-learning/)  
 [영국 왕실 결혼식 중계에서 유명인사 실시간 식별 사례](https://www.elemental.com/newsroom/blog/sky-news-aws-bring-ml-mainstream-live-video-royal-wedding-whos-who)  
 [아마존의 딥러닝 기술 활용 사례](https://www.slideshare.net/awskorea/amazon-deeplearningcasesandmlonaws)  
 [일본경제신문사 "AI 기자" 제작자가 말하는 테크놀러지 미디어에의 도전(일본어)](https://d1.awsstatic.com/events/jp/2017/summit/slide/D4T5-3.pdf)  
-[AWS 기계 학습 블로그](https://aws.amazon.com/ko/blogs/machine-learning/)  
 [머티 GPU에 대한 딥 러닝 학습 스케일링을 위한 하이퍼 파라미터 튜닝의 중요성](https://aws.amazon.com/ko/blogs/machine-learning/the-importance-of-hyperparameter-tuning-for-scaling-deep-learning-training-to-multiple-gpus/)  
 [Amazon SageMaker의 오브젝트 감지 알고리즘 출시](https://aws.amazon.com/ko/blogs/machine-learning/object-detection-algorithm-now-available-in-amazon-sagemaker/)  
 [Amazon S3의 데이터를 AWS Glue 데이터 카탈로그에서 관리하고 Amazon SageMaker 노트북에서 사용하는 방법](https://aws.amazon.com/ko/blogs/machine-learning/access-amazon-s3-data-managed-by-aws-glue-data-catalog-from-amazon-sagemaker-notebooks/)  
@@ -115,4 +115,4 @@ Python 주요 라이브러리
 [소프트뱅크의 AI전략 - 소프트뱅크 2018년3월 1분기 결산설명회 요약](https://gist.github.com/serithemage/986fb77233807122bb3b7e2f6b469a35)  
 [알아두면 쓸 데있는 신기한 강화학습](https://www.youtube.com/watch?v=NGGO0zdzhVQ)  
 [Deep Learning을 위한 컴퓨터 구조](http://www.mysnu.org/m/community/newtechnology.php?search_order=&search_part=&c_cate1=&mode=v&idx=10586&thisPageNum=)  
-
+[Fast.ai, AWS 기반 GPU 인스턴스로 가장 빠른 ImageNet 모델 학습 기록 수립](https://aws.amazon.com/ko/blogs/korea/new-speed-record-set-for-training-deep-learning-models-on-aws/)  
