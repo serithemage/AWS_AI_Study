@@ -105,6 +105,16 @@ Python 주요 라이브러리
 
 ### 사례 소개 및 블로그
 [AWS 기계 학습 블로그](https://aws.amazon.com/ko/blogs/machine-learning/)  
+[AWS 인공지능 관련 블로그 포스팅 모음(한글)](https://aws.amazon.com/ko/blogs/korea/category/artificial-intelligence/)
+- [Fast.ai, AWS 기반 GPU 인스턴스로 가장 빠른 ImageNet 모델 학습 기록 수립](https://aws.amazon.com/ko/blogs/korea/new-speed-record-set-for-training-deep-learning-models-on-aws/)  
+
+[Amazon SageMaker 관련 블로그 포스팅 모음(한글)](https://aws.amazon.com/ko/blogs/korea/category/artificial-intelligence/sagemaker/)
+- [Amazon SageMaker BlazingText: 다중 CPU/GPU상에서 Word2Vec 알고리즘의 병렬 처리](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-blazingtext-parallelizing-word2vec-on-multiple-cpus-or-gpus/)
+- [Amazon SageMaker 자동 모델 튜닝을 활용한 ResNet 모델 훈련하기](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-automatic-model-tuning-produces-better-models-faster/)
+- [Amazon SageMaker 기반 컨테이너를 활용한 Scikit-Learn 모델 훈련 및 호스팅 방법](https://aws.amazon.com/ko/blogs/korea/train-and-host-scikit-learn-models-in-amazon-sagemaker-by-building-a-scikit-docker-container/)
+- [Amazon SageMaker 자동 모델 튜닝 기능 출시 – 기계 학습을 위한 인공 지능](https://aws.amazon.com/ko/blogs/korea/sagemaker-automatic-model-tuning/)
+- [이상 탐지를 위한 Amazon SageMaker 의 Random Cut Forest 빌트인 알고리즘](https://aws.amazon.com/ko/blogs/korea/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/)
+
 [영국 왕실 결혼식 중계에서 유명인사 실시간 식별 사례](https://www.elemental.com/newsroom/blog/sky-news-aws-bring-ml-mainstream-live-video-royal-wedding-whos-who)  
 [아마존의 딥러닝 기술 활용 사례](https://www.slideshare.net/awskorea/amazon-deeplearningcasesandmlonaws)  
 [일본경제신문사 "AI 기자" 제작자가 말하는 테크놀러지 미디어에의 도전(일본어)](https://d1.awsstatic.com/events/jp/2017/summit/slide/D4T5-3.pdf)  
@@ -115,4 +125,4 @@ Python 주요 라이브러리
 [소프트뱅크의 AI전략 - 소프트뱅크 2018년3월 1분기 결산설명회 요약](https://gist.github.com/serithemage/986fb77233807122bb3b7e2f6b469a35)  
 [알아두면 쓸 데있는 신기한 강화학습](https://www.youtube.com/watch?v=NGGO0zdzhVQ)  
 [Deep Learning을 위한 컴퓨터 구조](http://www.mysnu.org/m/community/newtechnology.php?search_order=&search_part=&c_cate1=&mode=v&idx=10586&thisPageNum=)  
-[Fast.ai, AWS 기반 GPU 인스턴스로 가장 빠른 ImageNet 모델 학습 기록 수립](https://aws.amazon.com/ko/blogs/korea/new-speed-record-set-for-training-deep-learning-models-on-aws/)  
+[지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow) - PyCon APAC 2016](https://www.youtube.com/watch?v=soJ-wDOSCf4)
