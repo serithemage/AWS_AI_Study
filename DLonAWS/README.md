@@ -114,4 +114,5 @@ Python 주요 라이브러리
 [수학을 포기한 직업 프로그래머가 머신러닝 학습을 시작하기 위한 학습법 소개](http://www.moreagile.net/2015/05/how-to-start-machine-learning-study.html)  
 [소프트뱅크의 AI전략 - 소프트뱅크 2018년3월 1분기 결산설명회 요약](https://gist.github.com/serithemage/986fb77233807122bb3b7e2f6b469a35)  
 [알아두면 쓸 데있는 신기한 강화학습](https://www.youtube.com/watch?v=NGGO0zdzhVQ)  
+[Deep Learning을 위한 컴퓨터 구조](http://www.mysnu.org/m/community/newtechnology.php?search_order=&search_part=&c_cate1=&mode=v&idx=10586&thisPageNum=)  
 
