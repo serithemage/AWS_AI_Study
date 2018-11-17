@@ -32,7 +32,8 @@
 [AWS AI Bootcamp Labs](https://github.com/aws-samples/aws-ai-bootcamp-labs)  
 [AWS AI/ML Workshop](https://github.com/aws-samples/aws-ai-ml-workshop-kr)  
 [AWS DeepLens기반 시각인식 ML](https://github.com/awskrug/datascience-group/tree/master/workshop-DeepLens)  
-[2018 AWSKRUG hands-on: Amazon SageMaker를 사용한 고객 이탈 예측과 색상 분류 모델 만들기](https://github.com/awskrug/handson-labs-2018/tree/master/DataAnalysis/2_ModelTraining)   
+[2018 AWSKRUG hands-on: Amazon SageMaker를 사용한 고객 이탈 예측과 색상 분류 모델 만들기](https://github.com/awskrug/handson-labs-2018/tree/master/DataAnalysis/2_ModelTraining)  
+[Sagemaker Workshop](https://sagemaker-workshop.com/)  
 
 * * *
 
