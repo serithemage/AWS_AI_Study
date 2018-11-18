@@ -1,9 +1,9 @@
 # Deep Learning on AWS 학습 자료집(http://bit.ly/dlonaws)
 
 ## 데모  
-[모듈1](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo1.ipynb)  
-[모듈2](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo2.ipynb)  
-[모듈3](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo3.ipynb) 
+[데모1: 데이터 과학을 위한 파이썬 패키지 소개](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo1.ipynb)   
+[데모2: 퍼셉트론 과 활성화 함수의 구현](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo2.ipynb)  
+[데모3: 명령형 과 선언형 프로그래밍 비교](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo3.ipynb) 
 * * *
 
 ## 실습 가이드 최신 버전(http://bit.ly/dl-lab)  
@@ -34,7 +34,7 @@
 [AWS DeepLens기반 시각인식 ML](https://github.com/awskrug/datascience-group/tree/master/workshop-DeepLens)  
 [2018 AWSKRUG hands-on: Amazon SageMaker를 사용한 고객 이탈 예측과 색상 분류 모델 만들기](https://github.com/awskrug/handson-labs-2018/tree/master/DataAnalysis/2_ModelTraining)  
 [Sagemaker Workshop](https://sagemaker-workshop.com/)  
-[ServerlessAI Workshop](https://github.com/aws-samples/serverless-ai-workshop) AWS Lambda와 SageMaker로 구축하는 서버리스 AI 서비스 구축 워크샵
+[ServerlessAI Workshop](https://github.com/aws-samples/serverless-ai-workshop) AWS Lambda와 SageMaker로 구축하는 서버리스 AI 서비스 구축 워크샵  
 
 * * *
 
@@ -47,6 +47,9 @@
 [한국AWS사용자그룹 데이터사이언스 모임 자료](https://github.com/awskrug/datascience-group)  
 [KAIST 기계 학습 강좌](https://aailab.kaist.ac.kr/xe2/index.php?mid=page_lMmY25&act=dispPageIndex)  
 [Andrew Ng의 Coursera Deep Learning 강의(한글자막)](https://www.coursera.org/specializations/deep-learning)  
+[파이썬 라이브러리를 활용한 머신러닝(Introduction to Machine Learning with Python) 예제 코드](https://github.com/amueller/introduction_to_ml_with_python)  
+[헨즈온 머신러닝(Hands-on Machine Learning with Scikit-Learn and TensorFlow) 예제 코드](https://github.com/ageron/handson-ml)
+
 
 ### Deep Learning  
 [Deep Learning on AWS](https://aws.amazon.com/ko/deep-learning/)  
@@ -57,16 +60,21 @@
 [Distributed (Deep) Machine Learning Community](https://github.com/dmlc)  
 [모두를 위한 딥러닝 강의](http://hunkim.github.io/ml/)  
 
-### Python ###
+### Python 학습서
 [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)  
 [Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+3T2018/course/)  
 
-Python 주요 라이브러리  
+### Python 주요 라이브러리  
 [Pandas](https://pandas.pydata.org/)  
+[Pandas 주요 기능 요약집](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)  
 [NumPy](http://www.numpy.org/)  
+[Numpy 주요 기능 요약집](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)  
 [Scikit-learn](http://scikit-learn.org/)  
+[Scikit-learn 주요 기능 요약집](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
 [Matplotlib](https://matplotlib.org/)  
+[Matplotlib 주요 기능 요약집](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)  
 [SciPy](https://www.scipy.org/)  
+[SciPy 주요 기능 요약집](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf)  
 
 ### MXNet  
 [Apache MXNet](https://mxnet.incubator.apache.org/)  
@@ -102,7 +110,7 @@ Python 주요 라이브러리
 [제조업의 AI/ML 고객 사례](https://www.slideshare.net/awskorea/aiml-customer-case-in-manufacturing-namgoong-younghwan)  
 [눈으로 보는 AWS 기반 인공지능 서비스 아키텍처 활용 데모](https://www.slideshare.net/awskorea/visual-demonstration-of-ai-on-aws-oliver-klein)  
 [AWS의 새로운 언어, 음성, 텍스트 처리 인공 지능 서비스, Amazon SageMaker](https://www.slideshare.net/awskorea/awss-new-integrated-deeprunning-service-amazon-sagemakersunil-mallyaaws-summit-seoul-2018)  
-[AWS를 활용한 상품 추천 서비스 구축 - AWS Summit Seoul 2018(김태현)](https://www.slideshare.net/awskorea/building-product-recommendation-service-using-aws-taehyun-kim)  
+[AWS를 활용한 상품 추천 서비스 구축](https://www.slideshare.net/awskorea/building-product-recommendation-service-using-aws-taehyun-kim)  
 [AWS 기반 인공지능 비디오 분석 서비스 소개](https://www.slideshare.net/awskorea/introducing-awsbased-artificial-intelligence-video-analysis-serviceranju-dasaws-summit-seoul-2018)  
 [Amazon Deeplens 와 컴퓨터 비전 딥러닝 어플리케이션 활용](https://www.slideshare.net/awskorea/aws-deeplens-and-deep-learning-applications-based-on-computer-visionsunil-mallyaaws-summit-seoul-2018)  
 [Amazon Rekognition을 이용하여 인공지능 안면 인식 키오스크 만들기](https://www.slideshare.net/awskorea/amazon-rekognition-facial-kiosk)  
