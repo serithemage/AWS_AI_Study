@@ -34,6 +34,7 @@
 [AWS DeepLens기반 시각인식 ML](https://github.com/awskrug/datascience-group/tree/master/workshop-DeepLens)  
 [2018 AWSKRUG hands-on: Amazon SageMaker를 사용한 고객 이탈 예측과 색상 분류 모델 만들기](https://github.com/awskrug/handson-labs-2018/tree/master/DataAnalysis/2_ModelTraining)  
 [Sagemaker Workshop](https://sagemaker-workshop.com/)  
+[ServerlessAI Workshop](https://github.com/aws-samples/serverless-ai-workshop) AWS Lambda와 SageMaker로 구축하는 서버리스 AI 서비스 구축 워크샵
 
 * * *
 
@@ -67,7 +68,6 @@ Python 주요 라이브러리
 [Matplotlib](https://matplotlib.org/)  
 [SciPy](https://www.scipy.org/)  
 
-
 ### MXNet  
 [Apache MXNet](https://mxnet.incubator.apache.org/)  
 [AWS 기반 Apache MXNet](https://aws.amazon.com/ko/mxnet/)   
@@ -80,9 +80,19 @@ Python 주요 라이브러리
 [유연하고, 빠른 딥러닝 프레임워크 Apache MXNet, Gluon - AWS Summit Seoul 2018(김무현)](https://www.slideshare.net/awskorea/detailed-look-into-deep-learning-training-using-apache-mxnetmuhyun-kimaws-summit-seoul-2018)  
 [MXNet을 이용한 CNN 아키텍처 시각화](http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)  
 
-### AWS
+### AWS  
+[AWS에서의 기계 학습](https://aws.amazon.com/ko/machine-learning/)  
 [AWS GitHub](https://github.com/aws)  
+[AWS Sagemaker 개발자 안내서](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/whatis.html)  
 [SageMaker Python SDK](https://github.com/aws/sagemaker-python-sdk) Amazon SageMaker에서 기계 학습 모델을 학습하고 배포하기 위한 라이브러리  
+[AWS DeepLens 개발자 리소스](https://aws.amazon.com/ko/deeplens/resources/)  
+[AWS Deep Learning AMI](https://aws.amazon.com/ko/machine-learning/amis/)  
+[Amazon Rekognition](https://aws.amazon.com/ko/rekognition/) 딥러닝 기반 동영상 및 이미지 분석 서비스  
+[Amazon Lex](https://aws.amazon.com/ko/lex/) 고객 참여를 위한 챗 봇 구축 서비스  
+[Amazon Comprehend](https://aws.amazon.com/ko/comprehend/) 텍스트에서 통찰력 확보 및 관계 파악  
+[Amazon Translate](https://aws.amazon.com/ko/translate/) 유창한 텍스트 번역  
+[Amazon Transcribe](https://aws.amazon.com/ko/transcribe/) 자동 음성 인식  
+[Amazon Polly](https://aws.amazon.com/ko/polly/) 자연스러운 텍스트 음성 변환  
 
 [Amazon SageMaker를 이용한 예측 분석](https://www.slideshare.net/awskorea/predictive-analytics-with-amazon-sage-maker-ng)  
 [개발자가 알아두면 좋을 5가지 AWS 인공 지능 깨알 지식](https://www.slideshare.net/awskorea/5-things-to-know-about-aws-aiml-for-developers)  
