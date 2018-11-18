@@ -10,11 +10,11 @@
 
 [Lab1](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-1-setup.html)  
 
-- [Lab1 jupyter notebook](DLonAWS/DL_on_AWS_Lab1.ipynb)
+- [Lab1 jupyter notebook](DL_on_AWS_Lab1.ipynb)
 
 [Lab2](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-2-cnn.html)  
 
-- [Lab2 jupyter notebook](DLonAWS/DL_on_AWS_Lab2.ipynb)
+- [Lab2 jupyter notebook](DL_on_AWS_Lab2.ipynb)
 
 [Lab3](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-3-lambda.html)  
 
