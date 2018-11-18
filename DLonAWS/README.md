@@ -1,6 +1,6 @@
 # Deep Learning on AWS 학습 자료집(http://bit.ly/dlonaws)
 
-## 데모  
+## 수업 데모  
 [데모1: 데이터 과학을 위한 파이썬 패키지 소개](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo1.ipynb)   
 [데모2: 퍼셉트론 과 활성화 함수의 구현](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo2.ipynb)  
 [데모3: 명령형 과 선언형 프로그래밍 비교](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo3.ipynb) 
@@ -48,7 +48,9 @@
 [KAIST 기계 학습 강좌](https://aailab.kaist.ac.kr/xe2/index.php?mid=page_lMmY25&act=dispPageIndex)  
 [Andrew Ng의 Coursera Deep Learning 강의(한글자막)](https://www.coursera.org/specializations/deep-learning)  
 [파이썬 라이브러리를 활용한 머신러닝(Introduction to Machine Learning with Python) 예제 코드](https://github.com/amueller/introduction_to_ml_with_python)  
-[헨즈온 머신러닝(Hands-on Machine Learning with Scikit-Learn and TensorFlow) 예제 코드](https://github.com/ageron/handson-ml)
+[헨즈온 머신러닝(Hands-on Machine Learning with Scikit-Learn and TensorFlow) 예제 코드](https://github.com/ageron/handson-ml)  
+[머신러닝 실무 지침서](https://developers.google.com/machine-learning/rules-of-ml/)  
+
 
 
 ### Deep Learning  
@@ -59,6 +61,7 @@
 [GPU컴퓨팅(wikipedia)](https://ko.wikipedia.org/wiki/GPGPU)  
 [Distributed (Deep) Machine Learning Community](https://github.com/dmlc)  
 [모두를 위한 딥러닝 강의](http://hunkim.github.io/ml/)  
+[CS231n Convolutional Neural Networks for Visual Recognition 한글 번역](http://aikorea.org/cs231n/convolutional-networks/)  
 
 ### Python 학습서
 [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)  
