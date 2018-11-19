@@ -57,8 +57,6 @@
 [헨즈온 머신러닝(Hands-on Machine Learning with Scikit-Learn and TensorFlow) 예제 코드](https://github.com/ageron/handson-ml)  
 [머신러닝 실무 지침서](https://developers.google.com/machine-learning/rules-of-ml/)  
 
-
-
 ### Deep Learning  
 [Deep Learning on AWS](https://aws.amazon.com/ko/deep-learning/)  
 [딥 러닝(wikipedia)](https://ko.wikipedia.org/wiki/%EB%94%A5_%EB%9F%AC%EB%8B%9D)  
@@ -92,9 +90,10 @@
 [MXNet 튜토리얼](https://mxnet.apache.org/tutorials/index.html)  
 [MXNet Gluon Crash Course(한국어)](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb) MXNet의 고급 API인 Gluon의 처음 사용자용 튜토리얼  
 [Gluon 튜토리얼](https://gluon.mxnet.io/)  
+[Gluon MNIST code sample](https://github.com/gluon-api/gluon-api/blob/master/tutorials/mnist-gluon-example.ipynb)  
 [MXNet 예제들](https://github.com/apache/incubator-mxnet/tree/master/example)  
 [Keras-MXNet vs Keras-TensorFlow Benchmarks](https://github.com/awslabs/keras-apache-mxnet/tree/master/benchmark)  
-[유연하고, 빠른 딥러닝 프레임워크 Apache MXNet, Gluon - AWS Summit Seoul 2018(김무현)](https://www.slideshare.net/awskorea/detailed-look-into-deep-learning-training-using-apache-mxnetmuhyun-kimaws-summit-seoul-2018)  
+[유연하고, 빠른 딥러닝 프레임워크 Apache MXNet, Gluon - AWS Summit Seoul 2018](https://www.slideshare.net/awskorea/detailed-look-into-deep-learning-training-using-apache-mxnetmuhyun-kimaws-summit-seoul-2018)  
 [MXNet을 이용한 CNN 아키텍처 시각화](http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)  
 
 ### AWS  
