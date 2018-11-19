@@ -36,7 +36,7 @@
 
 ## 워크샵 자료
 [AWS AI Bootcamp Labs](https://github.com/aws-samples/aws-ai-bootcamp-labs)  
-[AWS AI/ML Workshop](https://github.com/aws-samples/aws-ai-ml-workshop-kr)  
+[DevDay SageMaker 핸즈온랩 안내서(한글)](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/doc/labguide/Korean/Dev%20Day%20Seoul%20Hands-on%206th%20November%202018.pdf)  
 [AWS DeepLens기반 시각인식 ML](https://github.com/awskrug/datascience-group/tree/master/workshop-DeepLens)  
 [2018 AWSKRUG hands-on: Amazon SageMaker를 사용한 고객 이탈 예측과 색상 분류 모델 만들기](https://github.com/awskrug/handson-labs-2018/tree/master/DataAnalysis/2_ModelTraining)  
 [Sagemaker Workshop](https://sagemaker-workshop.com/)  
@@ -96,7 +96,15 @@
 [유연하고, 빠른 딥러닝 프레임워크 Apache MXNet, Gluon - AWS Summit Seoul 2018](https://www.slideshare.net/awskorea/detailed-look-into-deep-learning-training-using-apache-mxnetmuhyun-kimaws-summit-seoul-2018)  
 [MXNet을 이용한 CNN 아키텍처 시각화](http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)  
 
-### AWS  
+### SageMaker  
+[Amazon SageMaker 예제 모음(github)](https://github.com/awslabs/amazon-sagemaker-examples)  
+[SageMaker MXNet Container](https://github.com/aws/sagemaker-mxnet-container)  
+[SageMaker TensorFlow Container](https://github.com/aws/sagemaker-tensorflow-container)  
+[Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)  
+[Amazon SageMaker를 이용한 예측 분석](https://www.slideshare.net/awskorea/predictive-analytics-with-amazon-sage-maker-ng)  
+[DevDay SageMaker 핸즈온랩 안내서(한글)](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/doc/labguide/Korean/Dev%20Day%20Seoul%20Hands-on%206th%20November%202018.pdf)  
+
+### 그 밖의 AWS AI서비스 관련 자료
 [AWS에서의 기계 학습](https://aws.amazon.com/ko/machine-learning/)  
 [AWS GitHub](https://github.com/aws)  
 [AWS Sagemaker 개발자 안내서](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/whatis.html)  
@@ -110,7 +118,6 @@
 [Amazon Transcribe](https://aws.amazon.com/ko/transcribe/) 자동 음성 인식  
 [Amazon Polly](https://aws.amazon.com/ko/polly/) 자연스러운 텍스트 음성 변환  
 
-[Amazon SageMaker를 이용한 예측 분석](https://www.slideshare.net/awskorea/predictive-analytics-with-amazon-sage-maker-ng)  
 [개발자가 알아두면 좋을 5가지 AWS 인공 지능 깨알 지식](https://www.slideshare.net/awskorea/5-things-to-know-about-aws-aiml-for-developers)  
 [AI 클라우드로 완전 정복하기 - 데이터 분석부터 딥러닝까지](https://www.slideshare.net/awskorea/aws-big-data-amazon-sagemaker-ai-con-2018)  
 [AWS와 Alexa 음성 인식 플랫폼을 통한 비즈니스 기회](https://www.slideshare.net/awskorea/aws-summit-alexaforbusinesschanny-yun-94930064)  
@@ -125,8 +132,6 @@
 [AWS 머신러닝 서비스를 활용한 실시간 이미지 분석](https://www.slideshare.net/awskorea/aws-aws-91254779)  
 [AI 비지니스 무엇을 어떻게 준비하고 해야 하는가](https://www.slideshare.net/awskorea/ai-aws)  
 [Amazon Polly를 통한 서버리스 동화 구연 앱 만들기](https://www.slideshare.net/awskorea/amazon-polly-deep-dive)  
-[Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)  
-
 
 
 ### 사례 소개 및 블로그
