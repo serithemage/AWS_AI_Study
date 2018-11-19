@@ -11,6 +11,7 @@
 [Lab1](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-1-setup.html)  
 
 - [Lab1 jupyter notebook](DL_on_AWS_Lab1.ipynb)
+- [Gluon으로 구현한 MNIST](https://github.com/gluon-api/gluon-api/blob/master/tutorials/mnist-gluon-example.ipynb)
 
 [Lab2](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-2-cnn.html)  
 
