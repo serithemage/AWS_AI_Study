@@ -89,21 +89,32 @@
 [AWS 기반 Apache MXNet](https://aws.amazon.com/ko/mxnet/)   
 [MXNet Youtube 체널](https://www.youtube.com/channel/UCQua2ZAkbr_Shsgfk1LCy6A)  
 [MXNet 튜토리얼](https://mxnet.apache.org/tutorials/index.html)  
-[MXNet Gluon Crash Course(한국어)](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb) MXNet의 고급 API인 Gluon의 처음 사용자용 튜토리얼  
+[MXNet Gluon Crash Course(한국어 학습서)](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb) MXNet의 고급 API인 Gluon의 처음 사용자용 튜토리얼  
 [Gluon 튜토리얼](https://gluon.mxnet.io/)  
 [Gluon MNIST code sample](https://github.com/gluon-api/gluon-api/blob/master/tutorials/mnist-gluon-example.ipynb)  
 [MXNet 예제들](https://github.com/apache/incubator-mxnet/tree/master/example)  
 [Keras-MXNet vs Keras-TensorFlow Benchmarks](https://github.com/awslabs/keras-apache-mxnet/tree/master/benchmark)  
 [유연하고, 빠른 딥러닝 프레임워크 Apache MXNet, Gluon - AWS Summit Seoul 2018](https://www.slideshare.net/awskorea/detailed-look-into-deep-learning-training-using-apache-mxnetmuhyun-kimaws-summit-seoul-2018)  
 [MXNet을 이용한 CNN 아키텍처 시각화](http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)  
+[Gluon debugging on Amazon EC2](https://www.youtube.com/watch?v=6-dOoJVw9_0)
 
 ### SageMaker  
+[AWS의 새로운 통합 딥러닝 서비스, Amazon SageMaker(YouTube)](https://www.youtube.com/watch?v=q0rGxPru_20&t=551s)
 [Amazon SageMaker 예제 모음(github)](https://github.com/awslabs/amazon-sagemaker-examples)  
-[SageMaker MXNet Container](https://github.com/aws/sagemaker-mxnet-container)  
-[SageMaker TensorFlow Container](https://github.com/aws/sagemaker-tensorflow-container)  
+[SageMaker MXNet Container(github)](https://github.com/aws/sagemaker-mxnet-container)  
+[SageMaker TensorFlow Container(github)](https://github.com/aws/sagemaker-tensorflow-container)  
 [Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)  
 [Amazon SageMaker를 이용한 예측 분석](https://www.slideshare.net/awskorea/predictive-analytics-with-amazon-sage-maker-ng)  
 [DevDay SageMaker 핸즈온랩 안내서(한글)](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/doc/labguide/Korean/Dev%20Day%20Seoul%20Hands-on%206th%20November%202018.pdf)  
+[초보를 위한 도커 안내서 - 이미지 만들고 배포하기](https://subicura.com/2017/02/10/docker-guide-for-beginners-create-image-and-deploy.html)
+
+[Amazon SageMaker 관련 블로그 포스팅 모음(한글)](https://aws.amazon.com/ko/blogs/korea/category/artificial-intelligence/sagemaker/)
+- [Amazon SageMaker BlazingText: 다중 CPU/GPU상에서 Word2Vec 알고리즘의 병렬 처리](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-blazingtext-parallelizing-word2vec-on-multiple-cpus-or-gpus/)
+- [Amazon SageMaker 자동 모델 튜닝을 활용한 ResNet 모델 훈련하기](https://aws.amazon.com/ko/blogs/korea/amazon-sagemaker-automatic-model-tuning-produces-better-models-faster/)
+- [Amazon SageMaker 기반 컨테이너를 활용한 Scikit-Learn 모델 훈련 및 호스팅 방법](https://aws.amazon.com/ko/blogs/korea/train-and-host-scikit-learn-models-in-amazon-sagemaker-by-building-a-scikit-docker-container/)
+- [Amazon SageMaker 자동 모델 튜닝 기능 출시 – 기계 학습을 위한 인공 지능](https://aws.amazon.com/ko/blogs/korea/sagemaker-automatic-model-tuning/)
+- [이상 탐지를 위한 Amazon SageMaker 의 Random Cut Forest 빌트인 알고리즘](https://aws.amazon.com/ko/blogs/korea/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/)
+
 
 ### 그 밖의 AWS AI서비스 관련 자료
 [AWS에서의 기계 학습](https://aws.amazon.com/ko/machine-learning/)  
