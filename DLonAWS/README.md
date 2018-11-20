@@ -96,7 +96,7 @@
 [Keras-MXNet vs Keras-TensorFlow Benchmarks](https://github.com/awslabs/keras-apache-mxnet/tree/master/benchmark)  
 [유연하고, 빠른 딥러닝 프레임워크 Apache MXNet, Gluon - AWS Summit Seoul 2018](https://www.slideshare.net/awskorea/detailed-look-into-deep-learning-training-using-apache-mxnetmuhyun-kimaws-summit-seoul-2018)  
 [MXNet을 이용한 CNN 아키텍처 시각화](http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)  
-[Gluon debugging on Amazon EC2](https://www.youtube.com/watch?v=6-dOoJVw9_0)
+[Gluon debugging on Amazon EC2(YouTube)](https://www.youtube.com/watch?v=6-dOoJVw9_0)
 
 ### SageMaker  
 [AWS의 새로운 통합 딥러닝 서비스, Amazon SageMaker(YouTube)](https://www.youtube.com/watch?v=q0rGxPru_20&t=551s)
