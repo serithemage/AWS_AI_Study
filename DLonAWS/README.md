@@ -168,4 +168,5 @@
 [소프트뱅크의 AI전략 - 소프트뱅크 2018년3월 1분기 결산설명회 요약](https://gist.github.com/serithemage/986fb77233807122bb3b7e2f6b469a35)  
 [알아두면 쓸 데있는 신기한 강화학습](https://www.youtube.com/watch?v=NGGO0zdzhVQ)  
 [Deep Learning을 위한 컴퓨터 구조](http://www.mysnu.org/m/community/newtechnology.php?search_order=&search_part=&c_cate1=&mode=v&idx=10586&thisPageNum=)  
-[지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow) - PyCon APAC 2016](https://www.youtube.com/watch?v=soJ-wDOSCf4)
+[지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow) - PyCon APAC 2016](https://www.youtube.com/watch?v=soJ-wDOSCf4)  
+[Amazon Translate, 한국어를 비롯 8개 언어 추가 지원 시작](https://aws.amazon.com/ko/blogs/korea/amazon-translate-korean/)  
