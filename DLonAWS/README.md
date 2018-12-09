@@ -2,8 +2,8 @@
 
 ## 수업 데모  
 [데모1: 데이터 과학을 위한 파이썬 패키지 소개](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo1.ipynb)   
-[데모2: 퍼셉트론 과 활성화 함수의 구현](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo2.ipynb)  
-[데모3: 명령형 과 선언형 프로그래밍 비교](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo3.ipynb) 
+[데모2: 퍼셉트론과 활성화 함수의 구현](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo2.ipynb)  
+[데모3: 명령형과 선언형 프로그래밍 비교](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo3.ipynb) 
 * * *
 
 ## 실습 가이드 최신 버전(http://bit.ly/dl-lab)  
@@ -16,6 +16,7 @@
 [Lab2](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-2-cnn.html)  
 
 - [Lab2 jupyter notebook](DL_on_AWS_Lab2.ipynb)
+- [MXNet Gluon Crash Course(한국어 학습서)](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb) MXNet의 고급 API인 Gluon의 처음 사용자용 튜토리얼
 
 [Lab3](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-3-lambda.html)  
 
