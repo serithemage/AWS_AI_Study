@@ -6,19 +6,21 @@
 [데모3: 명령형과 선언형 프로그래밍 비교](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo3.ipynb) 
 * * *
 
-## 실습 가이드 최신 버전(http://bit.ly/dl-lab)  
+## 실습 안내서 (http://bit.ly/dl-lab)  
 
-[Lab1](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-1-setup.html)  
+[Lab1 실습 안내서](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-1-setup.html) Deep Learning AMI 인스턴스 설정 및 다층 퍼셉트론 신경망 모델 실행  
 
 - [Lab1 jupyter notebook](DL_on_AWS_Lab1.ipynb)
-- [Gluon으로 구현한 MNIST](https://github.com/gluon-api/gluon-api/blob/master/tutorials/mnist-gluon-example.ipynb)
+- [Gluon으로 구현한 MNIST](https://github.com/gluon-api/gluon-api/blob/master/tutorials/mnist-gluon-example.ipynb)  
+- [Tensorflow Keras Fashion MNIST](https://www.tensorflow.org/tutorials/keras/basic_classification)  
 
-[Lab2](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-2-cnn.html)  
+[Lab2 실습 안내서](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-2-cnn.html) CIFAR10 데이터 세트에서의 이미지 예측을 위한 합성곱 신경망(CNN) 교육  
 
 - [Lab2 jupyter notebook](DL_on_AWS_Lab2.ipynb)
 - [MXNet Gluon Crash Course(한국어 학습서)](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb) MXNet의 고급 API인 Gluon의 처음 사용자용 튜토리얼
+- [스탠포드 CS231n - Convolutional Neural Networks for Visual Recognition 강의 노트 한글 번역](http://aikorea.org/cs231n/convolutional-networks/)  
 
-[Lab3](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-3-lambda.html)  
+[Lab3 실습 안내서](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-3-lambda.html) AWS Lambda에서의 예측을 위해 교육된 모델 배포  
 
 ## AWS AI 서비스 관련 온라인 강의(무료)  
 
@@ -37,6 +39,7 @@
 * * *
 
 ## 워크샵 자료
+[AWS Samples - Jupyter Notebook](https://github.com/aws-samples?language=jupyter+notebook)  
 [AWS AI Bootcamp Labs](https://github.com/aws-samples/aws-ai-bootcamp-labs)  
 [DevDay SageMaker 핸즈온랩 안내서(한글)](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/doc/labguide/Korean/Dev%20Day%20Seoul%20Hands-on%206th%20November%202018.pdf)  
 [AWS DeepLens기반 시각인식 ML](https://github.com/awskrug/datascience-group/tree/master/workshop-DeepLens)  
