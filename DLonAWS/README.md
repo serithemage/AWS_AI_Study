@@ -24,7 +24,10 @@
 
 ## AWS AI 서비스 관련 온라인 강의(무료)  
 
-[AI 온라인 강의(전체 목록)](https://www.aws.training/Training?searchPhrase=%EB%B6%84%EC%95%BC-%EC%9D%B8%EA%B3%B5%20%EC%A7%80%EB%8A%A5(AI)&searchPhrase=%ED%95%9C%EA%B5%AD%EC%96%B4&searchPhrase=enrollment_id_1)  
+[AWS 기계 학습 온라인 코스](https://aws.amazon.com/ko/training/learning-paths/machine-learning/)  
+[edX Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)  
+
+[aws.training AI 온라인 강의(전체 목록)](https://www.aws.training/Training?searchPhrase=%EB%B6%84%EC%95%BC-%EC%9D%B8%EA%B3%B5%20%EC%A7%80%EB%8A%A5(AI)&searchPhrase=%ED%95%9C%EA%B5%AD%EC%96%B4&searchPhrase=enrollment_id_1)  
 [Introduction to Machine Learning (한국어)](https://www.aws.training/learningobject/video?id=22177)  
 [Introduction to Deep Learning(한국어)](https://www.aws.training/learningobject/video?id=22242)  
 [Introduction to AWS Machine Learning Services (한국어)](https://www.aws.training/learningobject/video?id=22125)  
@@ -34,7 +37,8 @@
 [Introduction to Amazon Polly(한국어)](https://www.aws.training/learningobject/video?id=22165)  
 [Introduction to Amazon Rekognition(한국어)](https://www.aws.training/learningobject/video?id=22172)  
 [Introduction to Amazon Comprehend(한국어)](https://www.aws.training/learningobject/video?id=22248)  
-※수강을 위해서는 AWS 트레이닝 포털에 계정등록을 하실 필요가 있습니다.
+※수강을 위해서는 AWS 트레이닝 포털(aws.training)에 계정등록을 하실 필요가 있습니다.
+
 
 * * *
 
@@ -176,3 +180,7 @@
 [Deep Learning을 위한 컴퓨터 구조](http://www.mysnu.org/m/community/newtechnology.php?search_order=&search_part=&c_cate1=&mode=v&idx=10586&thisPageNum=)  
 [지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow) - PyCon APAC 2016](https://www.youtube.com/watch?v=soJ-wDOSCf4)  
 [Amazon Translate, 한국어를 비롯 8개 언어 추가 지원 시작](https://aws.amazon.com/ko/blogs/korea/amazon-translate-korean/)  
+
+## AWS re:Invent 2018
+[AWS re:Invent 2018 AI & ML 관려 세션 영상 목록(YouTube)](https://www.youtube.com/playlist?list=PLhr1KZpdzukdExxUr05-WIpdVYPWjgi43)
+
