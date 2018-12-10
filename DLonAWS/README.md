@@ -70,7 +70,8 @@
 [GPU컴퓨팅(wikipedia)](https://ko.wikipedia.org/wiki/GPGPU)  
 [Distributed (Deep) Machine Learning Community](https://github.com/dmlc)  
 [모두를 위한 딥러닝 강의](http://hunkim.github.io/ml/)  
-[CS231n: Convolutional Neural Networks for Visual Recognition 한글 번역](http://aikorea.org/cs231n/)
+[CS231n: Convolutional Neural Networks for Visual Recognition 한글 번역](http://aikorea.org/cs231n/)  
+[Dive into Deep Learning](http://en.diveintodeeplearning.org/index.html) MXNet 커뮤니티에서 만든 무료 딥러닝 학습서  
 
 ### Python 학습서
 [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)  
