@@ -78,7 +78,7 @@
 [Python for Data Science](https://courses.edx.org/courses/course-v1:UCSanDiegoX+DSE200x+3T2018/course/)  
 [초보자를 위한 Jupyter Notebook 소개 영상(유튜브)](https://www.youtube.com/watch?v=sqMYhAIaYZQ)  
 
-### Python 주요 라이브러리  
+### Python 주요 라이브러리
 [Pandas](https://pandas.pydata.org/)  
 [Pandas 주요 기능 요약집](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)  
 [NumPy](http://www.numpy.org/)  
