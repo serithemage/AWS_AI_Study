@@ -109,7 +109,7 @@
 [Gluon debugging on Amazon EC2(YouTube)](https://www.youtube.com/watch?v=6-dOoJVw9_0)
 
 ### SageMaker  
-[AWS의 새로운 통합 딥러닝 서비스, Amazon SageMaker(YouTube)](https://www.youtube.com/watch?v=q0rGxPru_20&t=551s)
+[AWS의 새로운 통합 딥러닝 서비스, Amazon SageMaker(YouTube)](https://www.youtube.com/watch?v=q0rGxPru_20&t=551s)  
 [Amazon SageMaker 예제 모음(github)](https://github.com/awslabs/amazon-sagemaker-examples)  
 [SageMaker MXNet Container(github)](https://github.com/aws/sagemaker-mxnet-container)  
 [SageMaker TensorFlow Container(github)](https://github.com/aws/sagemaker-tensorflow-container)  
