@@ -49,7 +49,7 @@
 [AWS DeepLens기반 시각인식 ML](https://github.com/awskrug/datascience-group/tree/master/workshop-DeepLens)  
 [2018 AWSKRUG hands-on: Amazon SageMaker를 사용한 고객 이탈 예측과 색상 분류 모델 만들기](https://github.com/awskrug/handson-labs-2018/tree/master/DataAnalysis/2_ModelTraining)  
 [Sagemaker Workshop](https://sagemaker-workshop.com/)  
-[ServerlessAI Workshop](https://github.com/aws-samples/serverless-ai-workshop) AWS Lambda와 SageMaker로 구축하는 서버리스 AI 서비스 구축 워크샵  
+[Serverless AI Workshop](https://github.com/aws-samples/serverless-ai-workshop) AWS Lambda와 SageMaker로 구축하는 서버리스 AI 서비스 구축 워크샵  
 
 * * *
 
@@ -107,6 +107,7 @@
 [유연하고, 빠른 딥러닝 프레임워크 Apache MXNet, Gluon - AWS Summit Seoul 2018](https://www.slideshare.net/awskorea/detailed-look-into-deep-learning-training-using-apache-mxnetmuhyun-kimaws-summit-seoul-2018)  
 [MXNet을 이용한 CNN 아키텍처 시각화](http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)  
 [Gluon debugging on Amazon EC2(YouTube)](https://www.youtube.com/watch?v=6-dOoJVw9_0)
+[Keras 백엔드(MXNet과 Tensorflow)에 따른 성능 벤치마크 결과](https://github.com/awslabs/keras-apache-mxnet/tree/master/benchmark)  
 
 ### SageMaker  
 [AWS의 새로운 통합 딥러닝 서비스, Amazon SageMaker(YouTube)](https://www.youtube.com/watch?v=q0rGxPru_20&t=551s)  
