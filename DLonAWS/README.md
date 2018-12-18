@@ -88,7 +88,7 @@
 [NumPy](http://www.numpy.org/)  
 [Numpy 주요 기능 요약집](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)  
 [Scikit-learn](http://scikit-learn.org/)  
-[Scikit-learn 주요 기능 요약집](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)
+[Scikit-learn 주요 기능 요약집](https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html)  
 [Matplotlib](https://matplotlib.org/)  
 [Matplotlib 주요 기능 요약집](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)  
 [SciPy](https://www.scipy.org/)  
@@ -106,7 +106,7 @@
 [Keras-MXNet vs Keras-TensorFlow Benchmarks](https://github.com/awslabs/keras-apache-mxnet/tree/master/benchmark)  
 [유연하고, 빠른 딥러닝 프레임워크 Apache MXNet, Gluon - AWS Summit Seoul 2018](https://www.slideshare.net/awskorea/detailed-look-into-deep-learning-training-using-apache-mxnetmuhyun-kimaws-summit-seoul-2018)  
 [MXNet을 이용한 CNN 아키텍처 시각화](http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)  
-[Gluon debugging on Amazon EC2(YouTube)](https://www.youtube.com/watch?v=6-dOoJVw9_0)
+[Gluon debugging on Amazon EC2(YouTube)](https://www.youtube.com/watch?v=6-dOoJVw9_0)  
 [Keras 백엔드(MXNet과 Tensorflow)에 따른 성능 벤치마크 결과](https://github.com/awslabs/keras-apache-mxnet/tree/master/benchmark)  
 
 ### SageMaker  
