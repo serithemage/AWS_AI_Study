@@ -78,7 +78,8 @@
 [Dive into Deep Learning](http://en.diveintodeeplearning.org/index.html) MXNet 커뮤니티에서 만든 무료 딥러닝 학습서  
 
 ### Python 학습서
-[Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)  
+[파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
+[Intro to Python for Data Science](https://wikidocs.net/book/1)  
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 [초보자를 위한 Jupyter Notebook 소개 영상(유튜브)](https://www.youtube.com/watch?v=sqMYhAIaYZQ)  
 
