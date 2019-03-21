@@ -79,7 +79,6 @@
 
 ### Python 학습서
 [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)  
-[Intro to Python for Data Science](https://wikidocs.net/book/1)  
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 [초보자를 위한 Jupyter Notebook 소개 영상(유튜브)](https://www.youtube.com/watch?v=sqMYhAIaYZQ)  
 
