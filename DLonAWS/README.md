@@ -17,6 +17,9 @@
 [Lab2 실습 안내서](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-2-cnn.html) CIFAR10 데이터 세트에서의 이미지 예측을 위한 합성곱 신경망(CNN) 교육  
 
 - [Lab2 jupyter notebook](DL_on_AWS_Lab2.ipynb)
+- [Gluon으로 구현한 CIFAR10 이미지 분류](http://gluon.ai/chapter_computer-vision/kaggle-gluon-cifar10.html)
+- [Lab2 jupyter notebook](DL_on_AWS_Lab2.ipynb)
+- [Lab2 jupyter notebook](DL_on_AWS_Lab2.ipynb)
 - [MXNet Gluon Crash Course(한국어 학습서)](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb) MXNet의 고급 API인 Gluon의 처음 사용자용 튜토리얼
 - [스탠포드 CS231n - Convolutional Neural Networks for Visual Recognition 강의 노트 한글 번역](http://aikorea.org/cs231n/convolutional-networks/)  
 
