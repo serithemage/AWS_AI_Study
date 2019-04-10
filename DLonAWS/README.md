@@ -23,6 +23,12 @@
 
 [Lab3 실습 안내서](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-3-lambda.html) AWS Lambda에서의 예측을 위해 교육된 모델 배포  
 
+## 무료 딥러닝 학습서 
+
+[Dive into Deep Learning(한글판)](http://ko.d2l.ai) - KDnuggets이 선정한 반드시 읽어야 할 10권의 무료 머신러닝 서적 중 하나. Jupyter notebook을 통해 직접 따라해 보면서 배울 수 있습니다.  
+[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
+[초보자를 위한 Jupyter Notebook 소개 영상(유튜브)](https://www.youtube.com/watch?v=sqMYhAIaYZQ)  
+
 ## AWS AI 서비스 관련 온라인 강의(무료)  
 
 [AWS 기계 학습 온라인 코스](https://aws.amazon.com/ko/training/learning-paths/machine-learning/)  
@@ -80,8 +86,6 @@
 
 ### Python 학습서
 [파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)  
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
-[초보자를 위한 Jupyter Notebook 소개 영상(유튜브)](https://www.youtube.com/watch?v=sqMYhAIaYZQ)  
 
 ### Python 주요 라이브러리
 [Pandas](https://pandas.pydata.org/)  
