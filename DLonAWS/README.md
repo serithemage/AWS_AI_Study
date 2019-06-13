@@ -174,6 +174,7 @@
 - [Amazon SageMaker 자동 모델 튜닝 기능 출시 – 기계 학습을 위한 인공 지능](https://aws.amazon.com/ko/blogs/korea/sagemaker-automatic-model-tuning/)
 - [이상 탐지를 위한 Amazon SageMaker 의 Random Cut Forest 빌트인 알고리즘](https://aws.amazon.com/ko/blogs/korea/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/)
 
+[Spot Instance로 싼 가격에 딥러닝 수행하기: Jupyter + AWS Spot Instance](https://medium.com/@sdhnshu/pro-deep-learning-setup-at-90-off-e9e68f5e84ec)  
 [영국 왕실 결혼식 중계에서 유명인사 실시간 식별 사례](https://www.elemental.com/newsroom/blog/sky-news-aws-bring-ml-mainstream-live-video-royal-wedding-whos-who)  
 [아마존의 딥러닝 기술 활용 사례](https://www.slideshare.net/awskorea/amazon-deeplearningcasesandmlonaws)  
 [일본경제신문사 "AI 기자" 제작자가 말하는 테크놀러지 미디어에의 도전(일본어)](https://d1.awsstatic.com/events/jp/2017/summit/slide/D4T5-3.pdf)  
