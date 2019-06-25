@@ -118,6 +118,7 @@
 
 ### SageMaker  
 [AWS의 새로운 통합 딥러닝 서비스, Amazon SageMaker(YouTube)](https://www.youtube.com/watch?v=q0rGxPru_20&t=551s)  
+[Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker): 무료로 들을 수 있으며 수료증 발급시에만 비용이 발생합니다.
 [Amazon SageMaker 예제 모음(github)](https://github.com/awslabs/amazon-sagemaker-examples)  
 [SageMaker MXNet Container(github)](https://github.com/aws/sagemaker-mxnet-container)  
 [SageMaker TensorFlow Container(github)](https://github.com/aws/sagemaker-tensorflow-container)  
