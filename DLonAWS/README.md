@@ -59,6 +59,9 @@
 [2018 AWSKRUG hands-on: Amazon SageMaker를 사용한 고객 이탈 예측과 색상 분류 모델 만들기](https://github.com/awskrug/handson-labs-2018/tree/master/DataAnalysis/2_ModelTraining)  
 [Sagemaker Workshop](https://sagemaker-workshop.com/)  
 [Serverless AI Workshop](https://github.com/aws-samples/serverless-ai-workshop) AWS Lambda와 SageMaker로 구축하는 서버리스 AI 서비스 구축 워크샵  
+[https://github.com/aws-samples/eks-kubeflow-workshop)  
+[Amazon Personalize Workshop(한글)](http://bit.ly/amazon-personalize-workshop)  
+[Amazon Forecast Samples](https://github.com/aws-samples/amazon-forecast-samples)  
 
 * * *
 
@@ -190,6 +193,7 @@
 [Deep Learning을 위한 컴퓨터 구조](http://www.mysnu.org/m/community/newtechnology.php?search_order=&search_part=&c_cate1=&mode=v&idx=10586&thisPageNum=)  
 [지적 대화를 위한 깊고 넓은 딥러닝 (Feat. TensorFlow) - PyCon APAC 2016](https://www.youtube.com/watch?v=soJ-wDOSCf4)  
 [Amazon Translate, 한국어를 비롯 8개 언어 추가 지원 시작](https://aws.amazon.com/ko/blogs/korea/amazon-translate-korean/)  
+[Amazon Rekognition으로 트와이스 멤버 얼굴 구별하기](https://towardsdatascience.com/building-k-pop-idol-identifier-with-amazon-rekognition-92302442d763)  
 
 ## AWS re:Invent 2018
 [AWS re:Invent 2018 AI & ML 관려 세션 영상 목록(YouTube)](https://www.youtube.com/playlist?list=PLhr1KZpdzukdExxUr05-WIpdVYPWjgi43)
