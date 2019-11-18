@@ -59,7 +59,7 @@
 [2018 AWSKRUG hands-on: Amazon SageMaker를 사용한 고객 이탈 예측과 색상 분류 모델 만들기](https://github.com/awskrug/handson-labs-2018/tree/master/DataAnalysis/2_ModelTraining)  
 [Sagemaker Workshop](https://sagemaker-workshop.com/)  
 [Serverless AI Workshop](https://github.com/aws-samples/serverless-ai-workshop) AWS Lambda와 SageMaker로 구축하는 서버리스 AI 서비스 구축 워크샵  
-[https://github.com/aws-samples/eks-kubeflow-workshop)  
+[EKS Kubeflow Workshop](https://github.com/aws-samples/eks-kubeflow-workshop)  
 [Amazon Personalize Workshop(한글)](http://bit.ly/amazon-personalize-workshop)  
 [Amazon Forecast Samples](https://github.com/aws-samples/amazon-forecast-samples)  
 
