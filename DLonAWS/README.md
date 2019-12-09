@@ -202,6 +202,8 @@
 [Amazon Translate, 한국어를 비롯 8개 언어 추가 지원 시작](https://aws.amazon.com/ko/blogs/korea/amazon-translate-korean/)  
 [Amazon Rekognition으로 트와이스 멤버 얼굴 구별하기](https://towardsdatascience.com/building-k-pop-idol-identifier-with-amazon-rekognition-92302442d763)  
 
-## AWS re:Invent 2018
-[AWS re:Invent 2018 AI & ML 관려 세션 영상 목록(YouTube)](https://www.youtube.com/playlist?list=PLhr1KZpdzukdExxUr05-WIpdVYPWjgi43)
+## AWS re:Invent AI & ML 관련 세션 영상 목록(YouTube)
+[2019 AWS re:Invent](https://www.youtube.com/playlist?list=PLV6rN8mnHlrfrGupPQkoif-HEp3lWiXdn)
+[2018 AWS re:Invent](https://www.youtube.com/playlist?list=PLhr1KZpdzukdExxUr05-WIpdVYPWjgi43)
+
 
