@@ -44,15 +44,15 @@
 [edX Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)  
 
 [aws.training AI 온라인 강의(전체 목록)](https://www.aws.training/Training?searchPhrase=%EB%B6%84%EC%95%BC-%EC%9D%B8%EA%B3%B5%20%EC%A7%80%EB%8A%A5(AI)&searchPhrase=%ED%95%9C%EA%B5%AD%EC%96%B4&searchPhrase=enrollment_id_1)  
-[Introduction to Machine Learning (한국어)](https://www.aws.training/learningobject/video?id=22177)  
-[Introduction to Deep Learning(한국어)](https://www.aws.training/learningobject/video?id=22242)  
-[Introduction to AWS Machine Learning Services (한국어)](https://www.aws.training/learningobject/video?id=22125)  
-[Introduction to Artificial Intelligence(한국어)](https://www.aws.training/learningobject/video?id=22239)  
-[Introduction to Amazon SageMaker(한국어)](https://www.aws.training/learningobject/video?id=22245)  
-[Introduction to Amazon Lex(한국어)](https://www.aws.training/learningobject/video?id=22175)  
-[Introduction to Amazon Polly(한국어)](https://www.aws.training/learningobject/video?id=22165)  
-[Introduction to Amazon Rekognition(한국어)](https://www.aws.training/learningobject/video?id=22172)  
-[Introduction to Amazon Comprehend(한국어)](https://www.aws.training/learningobject/video?id=22248)  
+  - [Introduction to Machine Learning (한국어)](https://www.aws.training/learningobject/video?id=22177)  
+  - [Introduction to Deep Learning(한국어)](https://www.aws.training/learningobject/video?id=22242)  
+  - [Introduction to AWS Machine Learning Services (한국어)](https://www.aws.training/learningobject/video?id=22125)  
+  - [Introduction to Artificial Intelligence(한국어)](https://www.aws.training/learningobject/video?id=22239)  
+  - [Introduction to Amazon SageMaker(한국어)](https://www.aws.training/learningobject/video?id=22245)  
+  - [Introduction to Amazon Lex(한국어)](https://www.aws.training/learningobject/video?id=22175)  
+  - [Introduction to Amazon Polly(한국어)](https://www.aws.training/learningobject/video?id=22165)  
+  - [Introduction to Amazon Rekognition(한국어)](https://www.aws.training/learningobject/video?id=22172)  
+  - [Introduction to Amazon Comprehend(한국어)](https://www.aws.training/learningobject/video?id=22248)  
 ※수강을 위해서는 AWS 트레이닝 포털(aws.training)에 계정등록을 하실 필요가 있습니다.
 
 
