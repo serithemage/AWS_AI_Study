@@ -17,16 +17,16 @@
 
 [Lab1 실습 안내서](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-1-setup.html) Deep Learning AMI 인스턴스 설정 및 다층 퍼셉트론 신경망 모델 실행  
 
-- [Lab1 jupyter notebook](DL_on_AWS_Lab1.ipynb)
-- [Gluon으로 구현한 MNIST](https://github.com/gluon-api/gluon-api/blob/master/tutorials/mnist-gluon-example.ipynb)  
-- [Tensorflow Keras Fashion MNIST](https://www.tensorflow.org/tutorials/keras/basic_classification)  
+- [Lab1 jupyter notebook](Lab1_ko.ipynb)
+  - [Gluon으로 구현한 MNIST](https://github.com/gluon-api/gluon-api/blob/master/tutorials/mnist-gluon-example.ipynb)  
+  - [Tensorflow Keras Fashion MNIST](https://www.tensorflow.org/tutorials/keras/basic_classification)  
 
 [Lab2 실습 안내서](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-2-cnn.html) CIFAR10 데이터 세트에서의 이미지 예측을 위한 합성곱 신경망(CNN) 교육  
 
-- [Lab2 jupyter notebook](DL_on_AWS_Lab2.ipynb)
-- [Gluon으로 구현한 CIFAR10 이미지 분류](http://gluon.ai/chapter_computer-vision/kaggle-gluon-cifar10.html)
-- [MXNet Gluon Crash Course(한국어 학습서)](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb) MXNet의 고급 API인 Gluon의 처음 사용자용 튜토리얼
-- [스탠포드 CS231n - Convolutional Neural Networks for Visual Recognition 강의 노트 한글 번역](http://aikorea.org/cs231n/convolutional-networks/)  
+- [Lab2 jupyter notebook](Lab2_ko.ipynb)
+  - [Gluon으로 구현한 CIFAR10 이미지 분류](http://gluon.ai/chapter_computer-vision/kaggle-gluon-cifar10.html)
+  - [MXNet Gluon Crash Course(한국어 학습서)](https://github.com/serithemage/AWS_AI_Study/blob/master/Gluon_Crash_Course_on_Colab.ipynb) MXNet의 고급 API인 Gluon의 처음 사용자용 튜토리얼
+  - [스탠포드 CS231n - Convolutional Neural Networks for Visual Recognition 강의 노트 한글 번역](http://aikorea.org/cs231n/convolutional-networks/)  
 
 [Lab3 실습 안내서](http://aws-class-data.s3-website.ap-northeast-2.amazonaws.com/DL/lab-3-lambda.html) AWS Lambda에서의 예측을 위해 교육된 모델 배포  
 
