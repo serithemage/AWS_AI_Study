@@ -41,7 +41,7 @@
 ## AWS AI 서비스 관련 온라인 강의(무료)  
 
 [AWS 기계 학습 온라인 코스](https://aws.amazon.com/ko/training/learning-paths/machine-learning/)  
-[Getting Started with AWS Machine Learning(Coursera)](https://ko.coursera.org/learn/aws-machine-learning)
+[Getting Started with AWS Machine Learning(Coursera)](https://ko.coursera.org/learn/aws-machine-learning)  
 [Amazon SageMaker: Simplifying Machine Learning Application Development(edX)](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)  
 
 [aws.training AI 온라인 강의(전체 목록)](https://www.aws.training/Training?searchPhrase=%EB%B6%84%EC%95%BC-%EC%9D%B8%EA%B3%B5%20%EC%A7%80%EB%8A%A5(AI)&searchPhrase=%ED%95%9C%EA%B5%AD%EC%96%B4&searchPhrase=enrollment_id_1)  
@@ -146,6 +146,15 @@
 - [Amazon SageMaker 자동 모델 튜닝 기능 출시 – 기계 학습을 위한 인공 지능](https://aws.amazon.com/ko/blogs/korea/sagemaker-automatic-model-tuning/)
 - [이상 탐지를 위한 Amazon SageMaker 의 Random Cut Forest 빌트인 알고리즘](https://aws.amazon.com/ko/blogs/korea/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/)
 
+### [Amazon Forecast](https://aws.amazon.com/ko/forecast/)
+아마존닷컴처럼 Amazon Forecast로 시계열 예측하기  
+  - [세션 영상](https://www.youtube.com/watch?v=4MuVRFQVx8Y)  
+  - [슬라이드](https://www.slideshare.net/awskorea/amazon-forecast-aws-gsshop-aws-summit-seoul-2019?qid=f999a7d1-9a38-4eaa-884d-243cc1e80819&v=&b=&from_search=1)  
+
+### [Amazon Personalize](https://aws.amazon.com/ko/personalize/)
+개인화 및 추천 기능의 맞춤형 AI 서비스 혁명 : Amazon Personalize    
+  - [세션 영상](https://www.youtube.com/watch?v=c_bC_4nPCLw)
+  - [슬라이드](https://www.slideshare.net/awskorea/ai-amazon-personalize-aws-aws-aws-summit-seoul-2019?qid=5ce02961-cd31-4761-b937-69cab227c678&v=&b=&from_search=3)
 
 ### 그 밖의 AWS AI서비스 관련 자료
 [AWS에서의 기계 학습](https://aws.amazon.com/ko/machine-learning/)  
