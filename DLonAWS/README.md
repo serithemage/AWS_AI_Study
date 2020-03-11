@@ -73,8 +73,8 @@
 [Amazon SageMaker 예제(영문)](https://github.com/awslabs/amazon-sagemaker-examples)  
 [SageMaker 2019 업데이트 기능 예제 노트북(한글)](https://github.com/daekeun-ml/sagemaker-reinvent2019-kr)  
 [Amazon SageMaker Jupyter Notebook Samples(영문)](https://github.com/aws-samples?language=jupyter+notebook)  
-[Amazon SageMAker Hands-on(한글)](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/contribution/seongshin/aws-ai-ml-immersionday-kr)
-[Amazon Comprehend의 custom entity recognizer 생성을 위한 노트북과 레시피(한글)](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/contribution/seongshin/amazon-comprehend-custom-entity_kr)
+[Amazon SageMAker Hands-on(한글)](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/contribution/seongshin/aws-ai-ml-immersionday-kr)  
+[Amazon Comprehend의 custom entity recognizer 생성을 위한 노트북과 레시피(한글)](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/contribution/seongshin/amazon-comprehend-custom-entity_kr)  
 
 [AWS AI Bootcamp Labs(영문)](https://github.com/aws-samples/aws-ai-bootcamp-labs)  
 
