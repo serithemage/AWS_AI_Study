@@ -60,11 +60,16 @@
 
 * * *
 
-## 워크샵 자료
-### [AWS KOREA AI/ML WORKSHOP](https://www.sagemaker-workshop-kr.com/): SageMaker를 포함해 다양한 AI/ML 워크샵 자료가 총 망라되어 있습니다.  
+## 실습 및 워크샵 자료
 
+### [AWS Korea AI/ML workshop](https://www.sagemaker-workshop-kr.com/)
+> SageMaker를 포함해 다양한 AI/ML 워크샵 자료가 총 망라되어 있습니다.  
+
+### [AWS Korea AI/ML 관련 컨텐츠 모음집](https://www.sagemaker-workshop-kr.com/kr/references.html)
+> 한국 AWS SA들이 직접 제작하거나 번역한 방댜핸 양의 컨텐츠 모음집 입니다.
+
+[Amazon SageMaker 예제(영문)](https://github.com/awslabs/amazon-sagemaker-examples)  
 [SageMaker 2019 업데이트 예제 노트북 한글화](https://github.com/daekeun-ml/sagemaker-reinvent2019-kr)  
-
 [Amazon SageMaker Jupyter Notebook Samples(영문)](https://github.com/aws-samples?language=jupyter+notebook)  
 [Amazon SageMAker Hands-on(한글)](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/contribution/seongshin/aws-ai-ml-immersionday-kr)
 [Amazon Comprehend의 custom entity recognizer 생성을 위한 노트북과 레시피(한글)](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/contribution/seongshin/amazon-comprehend-custom-entity_kr)
@@ -73,9 +78,9 @@
 
 [AWS DeepLens기반 시각인식 ML](https://github.com/awskrug/datascience-group/tree/master/workshop-DeepLens)  
 [2018 AWSKRUG hands-on: Amazon SageMaker를 사용한 고객 이탈 예측과 색상 분류 모델 만들기](https://github.com/awskrug/handson-labs-2018/tree/master/DataAnalysis/2_ModelTraining)  
-[Sagemaker Workshop](https://sagemaker-workshop.com/)  
+[Sagemaker Workshop(영문)](https://sagemaker-workshop.com/)  
 [Serverless AI Workshop](https://github.com/aws-samples/serverless-ai-workshop) AWS Lambda와 SageMaker로 구축하는 서버리스 AI 서비스 구축 워크샵  
-[EKS Kubeflow Workshop](https://github.com/aws-samples/eks-kubeflow-workshop)  
+[EKS Kubeflow Workshop(영문)](https://github.com/aws-samples/eks-kubeflow-workshop)  
 [Amazon Personalize Workshop(한글)](http://bit.ly/amazon-personalize-workshop)  
 [Amazon Forecast Samples](https://github.com/aws-samples/amazon-forecast-samples)  
 
