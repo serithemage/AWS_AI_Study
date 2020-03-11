@@ -39,11 +39,12 @@
 [초보자를 위한 Jupyter Notebook 소개 영상(유튜브)](https://www.youtube.com/watch?v=sqMYhAIaYZQ)  
 [Deep Learning Book - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)  
 
-## AWS AI 서비스 관련 온라인 강의(무료)  
+## AWS AI 서비스 관련 온라인 강의 
 
 [AWS 기계 학습 온라인 코스](https://aws.amazon.com/ko/training/learning-paths/machine-learning/)  
 [Getting Started with AWS Machine Learning(Coursera)](https://ko.coursera.org/learn/aws-machine-learning)  
 [Amazon SageMaker: Simplifying Machine Learning Application Development(edX)](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)  
+[AWS Computer Vision: Getting Started with GluonCV](https://ko.coursera.org/learn/aws-computer-vision-gluoncv)  
 
 [aws.training AI 온라인 강의(전체 목록)](https://www.aws.training/Training?searchPhrase=%EB%B6%84%EC%95%BC-%EC%9D%B8%EA%B3%B5%20%EC%A7%80%EB%8A%A5(AI)&searchPhrase=%ED%95%9C%EA%B5%AD%EC%96%B4&searchPhrase=enrollment_id_1)  
   - [Introduction to Machine Learning (한국어)](https://www.aws.training/learningobject/video?id=22177)  
