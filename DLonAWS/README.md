@@ -6,6 +6,7 @@
 - AWS 공인 개발자 - 어소시에이트 수험 가이드  http://bit.ly/devcertguide
 - AWS 보안 관련 컨텐츠 모음집  http://bit.ly/secontents
 - AWS 딥러닝 학습 자료 모음집 http://bit.ly/dlonaws
+- 2019년 re:Invent 에서 공개된 AI/ML관련 서비스 소개 http://bit.ly/2019-ml-recap
 
 ## 수업 데모  
 [데모1: 데이터 과학을 위한 파이썬 패키지 소개](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo1.ipynb)   
