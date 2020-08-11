@@ -47,15 +47,6 @@
 [AWS Computer Vision: Getting Started with GluonCV](https://ko.coursera.org/learn/aws-computer-vision-gluoncv)  
 
 [aws.training AI 온라인 강의(전체 목록)](https://www.aws.training/Training?searchPhrase=%EB%B6%84%EC%95%BC-%EC%9D%B8%EA%B3%B5%20%EC%A7%80%EB%8A%A5(AI)&searchPhrase=%ED%95%9C%EA%B5%AD%EC%96%B4&searchPhrase=enrollment_id_1)  
-  - [Introduction to Machine Learning (한국어)](https://www.aws.training/learningobject/video?id=22177)  
-  - [Introduction to Deep Learning(한국어)](https://www.aws.training/learningobject/video?id=22242)  
-  - [Introduction to AWS Machine Learning Services (한국어)](https://www.aws.training/learningobject/video?id=22125)  
-  - [Introduction to Artificial Intelligence(한국어)](https://www.aws.training/learningobject/video?id=22239)  
-  - [Introduction to Amazon SageMaker(한국어)](https://www.aws.training/learningobject/video?id=22245)  
-  - [Introduction to Amazon Lex(한국어)](https://www.aws.training/learningobject/video?id=22175)  
-  - [Introduction to Amazon Polly(한국어)](https://www.aws.training/learningobject/video?id=22165)  
-  - [Introduction to Amazon Rekognition(한국어)](https://www.aws.training/learningobject/video?id=22172)  
-  - [Introduction to Amazon Comprehend(한국어)](https://www.aws.training/learningobject/video?id=22248)  
 
 ※수강을 위해서는 AWS 트레이닝 포털(aws.training)에 계정등록을 하실 필요가 있습니다.
 
@@ -143,10 +134,13 @@
 [Gluon debugging on Amazon EC2(YouTube)](https://www.youtube.com/watch?v=6-dOoJVw9_0)  
 [Keras 백엔드(MXNet과 Tensorflow)에 따른 성능 벤치마크 결과](https://github.com/awslabs/keras-apache-mxnet/tree/master/benchmark)  
 
-### SageMaker  
+### SageMaker
 [AWS의 새로운 통합 딥러닝 서비스, Amazon SageMaker(YouTube)](https://www.youtube.com/watch?v=q0rGxPru_20&t=551s)  
 [Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker): 무료 온라인 강좌(영문)  
 [Amazon SageMaker 예제 모음(github)](https://github.com/awslabs/amazon-sagemaker-examples)  
+[AWS re:Invent 2019에 소개된 SageMaker의 신규 서비스들 소개(YouTube)](https://www.youtube.com/watch?v=E8DsJPlLN6A)  
+[AWS re:Invent 2019에 소개된 SageMaker의 신규 서비스들에 대한 예제 노트북 한글화](https://github.com/daekeun-ml/sagemaker-reinvent2019-kr)  
+
 [SageMaker MXNet Container(github)](https://github.com/aws/sagemaker-mxnet-container)  
 [SageMaker TensorFlow Container(github)](https://github.com/aws/sagemaker-tensorflow-container)  
 [Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)  
@@ -160,6 +154,7 @@
 - [Amazon SageMaker 기반 컨테이너를 활용한 Scikit-Learn 모델 훈련 및 호스팅 방법](https://aws.amazon.com/ko/blogs/korea/train-and-host-scikit-learn-models-in-amazon-sagemaker-by-building-a-scikit-docker-container/)
 - [Amazon SageMaker 자동 모델 튜닝 기능 출시 – 기계 학습을 위한 인공 지능](https://aws.amazon.com/ko/blogs/korea/sagemaker-automatic-model-tuning/)
 - [이상 탐지를 위한 Amazon SageMaker 의 Random Cut Forest 빌트인 알고리즘](https://aws.amazon.com/ko/blogs/korea/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/)
+
 
 ### [Amazon Forecast](https://aws.amazon.com/ko/forecast/)
 아마존닷컴처럼 Amazon Forecast로 시계열 예측하기  
