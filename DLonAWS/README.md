@@ -138,11 +138,10 @@
 [AWS의 새로운 통합 딥러닝 서비스, Amazon SageMaker(YouTube)](https://www.youtube.com/watch?v=q0rGxPru_20&t=551s)  
 [Amazon SageMaker: Simplifying Machine Learning Application Development](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker): 무료 온라인 강좌(영문)  
 [Amazon SageMaker 예제 모음(github)](https://github.com/awslabs/amazon-sagemaker-examples)  
-[AWS re:Invent 2019에 소개된 SageMaker의 신규 서비스들 소개(YouTube)](https://www.youtube.com/watch?v=E8DsJPlLN6A)  
-[AWS re:Invent 2019에 소개된 SageMaker의 신규 서비스들에 대한 예제 노트북 한글화](https://github.com/daekeun-ml/sagemaker-reinvent2019-kr)  
 
 [SageMaker MXNet Container(github)](https://github.com/aws/sagemaker-mxnet-container)  
 [SageMaker TensorFlow Container(github)](https://github.com/aws/sagemaker-tensorflow-container)  
+
 [Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)  
 [Amazon SageMaker를 이용한 예측 분석](https://www.slideshare.net/awskorea/predictive-analytics-with-amazon-sage-maker-ng)  
 [DevDay SageMaker 핸즈온랩 안내서(한글)](https://github.com/aws-samples/aws-ai-ml-workshop-kr/blob/master/doc/labguide/Korean/Dev%20Day%20Seoul%20Hands-on%206th%20November%202018.pdf)  
@@ -155,6 +154,10 @@
 - [Amazon SageMaker 자동 모델 튜닝 기능 출시 – 기계 학습을 위한 인공 지능](https://aws.amazon.com/ko/blogs/korea/sagemaker-automatic-model-tuning/)
 - [이상 탐지를 위한 Amazon SageMaker 의 Random Cut Forest 빌트인 알고리즘](https://aws.amazon.com/ko/blogs/korea/use-the-built-in-amazon-sagemaker-random-cut-forest-algorithm-for-anomaly-detection/)
 
+#### AWS re:Invent 2019에 소개된 SageMaker 신규 서비스 관련 컨텐츠
+[SageMaker 신규 서비스 소개(YouTube)](https://www.youtube.com/watch?v=E8DsJPlLN6A)  
+[SageMaker 신규 서비스들에 대한 예제 노트북 한글화](https://github.com/daekeun-ml/sagemaker-reinvent2019-kr)  
+[SageMaker 신규 서비스 Hands-on Lab](https://github.com/daekeun-ml/sagemaker-studio-workshop-kr)
 
 ### [Amazon Forecast](https://aws.amazon.com/ko/forecast/)
 아마존닷컴처럼 Amazon Forecast로 시계열 예측하기  
