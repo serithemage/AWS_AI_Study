@@ -67,6 +67,12 @@
 [Amazon SageMAker Hands-on(한글)](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/contribution/seongshin/aws-ai-ml-immersionday-kr)  
 [Amazon Comprehend의 custom entity recognizer 생성을 위한 노트북과 레시피(한글)](https://github.com/aws-samples/aws-ai-ml-workshop-kr/tree/master/contribution/seongshin/amazon-comprehend-custom-entity_kr)  
 
+[AutoPilot Workshop](https://www.getstartedonsagemaker.com/workshop/)  
+[Machine Learning Training using SageMaker Studio Workshop](https://www.getstartedonsagemaker.com/workshop-studio-training/)  
+[Amazon SageMaker Operators for Kubernetes Workshop](https://www.getstartedonsagemaker.com/workshop-k8s-operators/)  
+[Amazon SageMaker Components for Kubeflow Pipelines Workshop](https://www.getstartedonsagemaker.com/workshop-k8s-pipeline/)  
+
+
 [AWS AI Bootcamp Labs(영문)](https://github.com/aws-samples/aws-ai-bootcamp-labs)  
 
 [AWS DeepLens기반 시각인식 ML](https://github.com/awskrug/datascience-group/tree/master/workshop-DeepLens)  
@@ -76,7 +82,6 @@
 [EKS Kubeflow Workshop(영문)](https://github.com/aws-samples/eks-kubeflow-workshop)  
 [Amazon Personalize Workshop(한글)](http://bit.ly/amazon-personalize-workshop)  
 [Amazon Forecast Samples](https://github.com/aws-samples/amazon-forecast-samples)  
-
 
 * * *
 
@@ -157,7 +162,7 @@
 #### AWS re:Invent 2019에 소개된 SageMaker 신규 서비스 관련 컨텐츠
 [SageMaker 신규 서비스 소개(YouTube)](https://www.youtube.com/watch?v=E8DsJPlLN6A)  
 [SageMaker 신규 서비스들에 대한 예제 노트북 한글화](https://github.com/daekeun-ml/sagemaker-reinvent2019-kr)  
-[SageMaker 신규 서비스 Hands-on Lab](https://github.com/daekeun-ml/sagemaker-studio-workshop-kr)
+[SageMaker 신규 서비스 Hands-on Lab](https://github.com/daekeun-ml/sagemaker-studio-workshop-kr)  
 
 ### [Amazon Forecast](https://aws.amazon.com/ko/forecast/)
 아마존닷컴처럼 Amazon Forecast로 시계열 예측하기  
