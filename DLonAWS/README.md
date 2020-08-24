@@ -59,7 +59,7 @@
 > SageMaker를 포함해 다양한 AI/ML 워크샵 자료가 총 망라되어 있습니다.  
 
 ### [AWS Korea AI/ML 관련 컨텐츠 모음집](https://www.sagemaker-workshop-kr.com/kr/references.html)
-> 한국 AWS SA들이 직접 제작하거나 번역한 방댜핸 양의 컨텐츠 모음집 입니다.
+> 한국 AWS SA들이 직접 제작하거나 번역한 방대한 양의 컨텐츠 모음집 입니다.
 
 [Amazon SageMaker 예제(영문)](https://github.com/awslabs/amazon-sagemaker-examples)  
 [SageMaker 2019 업데이트 기능 예제 노트북(한글)](https://github.com/daekeun-ml/sagemaker-reinvent2019-kr)  
