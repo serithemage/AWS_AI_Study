@@ -42,6 +42,7 @@
 ## AWS AI 서비스 관련 온라인 강의 
 
 [AWS 기계 학습 온라인 코스](https://aws.amazon.com/ko/training/learning-paths/machine-learning/)  
+[Amazon Machine Learning University(유튜브)](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/featured) - 원래 Amazon 직원을 교육하기 위한 프로그램을 공개하였습니다.  
 [Getting Started with AWS Machine Learning(Coursera)](https://ko.coursera.org/learn/aws-machine-learning)  
 [Amazon SageMaker: Simplifying Machine Learning Application Development(edX)](https://www.edx.org/course/simplifying-machine-learning-app-development-with-amazon-sagemaker)  
 [AWS Computer Vision: Getting Started with GluonCV](https://ko.coursera.org/learn/aws-computer-vision-gluoncv)  
