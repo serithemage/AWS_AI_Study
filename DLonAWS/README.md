@@ -6,7 +6,7 @@
 - AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드  http://bit.ly/sacertguide
 - AWS 공인 개발자 - 어소시에이트 수험 가이드  http://bit.ly/devcertguide
 - AWS 보안 관련 컨텐츠 모음집  http://bit.ly/secontents
-- AWS 기반 빅데이터 학습자료집(http://bit.ly/bdonaws)
+- AWS 기반 빅데이터 학습자료집 http://bit.ly/bdonaws
 - AWS 딥러닝 학습 자료 모음집 http://bit.ly/dlonaws
 - 2019년 re:Invent 에서 공개된 AI/ML관련 서비스 소개 http://bit.ly/2019-ml-recap
 
