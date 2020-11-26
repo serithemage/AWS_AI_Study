@@ -85,6 +85,7 @@
 [Serverless AI Workshop](https://github.com/aws-samples/serverless-ai-workshop) AWS Lambda와 SageMaker로 구축하는 서버리스 AI 서비스 구축 워크샵  
 [EKS Kubeflow Workshop(영문)](https://github.com/aws-samples/eks-kubeflow-workshop)  
 [Amazon Personalize Workshop(한글)](http://bit.ly/amazon-personalize-workshop)  
+[Startup Amazon Personalize workshop Guide(한글)](https://github.com/jihys/startup-personalize-workshop)  
 [Amazon Forecast Samples](https://github.com/aws-samples/amazon-forecast-samples)  
 
 * * *
