@@ -84,41 +84,34 @@
 
 
 
-## 대학교 수업 커리큘럼 예제
+## 데이터 과학 학습 커리큘럼
 
-1 차 강의소개
-2 차 AWS 활용 준비하기 AWS Educate 가입 실습
-3 차 실습 환경 구축 SageMaker 소개, Jupyter Notebook 인스턴스 생성 실습
-4 차 기계학습을 위한 데이터 분석 개론 기계학습 소개 이론
-5 차 기계학습을 위한 데이터 분석 개론 기계학습 방법론 이론
-6 차 데이터 분석 - **_선형회귀분석 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
+- 데이터 분석 - **_선형회귀분석 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
 
 * Regression with Amazon SageMaker Linear Learner algorithm
     * https://github.com/aws/amazon-sagemaker-examples/blob/master/introduction_to_amazon_algorithms/linear_learner_abalone/Linear_Learner_Regression_csv_format.ipynb
 
-7 차 데이터 분석 – **_트리 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
+- 데이터 분석 – **_트리 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
 
 * ***Gradient Boosted Trees를 이용하는 지도학습: 편향된 클래스의 이진 분류 예측문제 해결***
 * https://github.com/mullue/xgboost/blob/master/1.xgboost_direct_marketing_sagemaker.ipynb
 
-8 차 데이터 분석 – **_인공신경망 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
-9 차 중간고사
-10 차 데이터 분석 – **_SVM 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
-11 차 데이터 분석 – **_Naive Bayses 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
+- 데이터 분석 – **_인공신경망 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
+- 데이터 분석 – **_SVM 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
+- 데이터 분석 – **_Naive Bayses 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
 
-* 8차, 9차, 10차의 예제에 대해서는 SageMaker에서 직접적인 예제 코드를 찾기가 힘드네요. 인터넷 (medium) 에서 코드를 찾아서 SageMaker Notebook 에서 직접 코드를 수정 및 실행을 해서 진행하는 것이 좋을 것으로 보입니다.
 
-12 차 데이터 분석 – **_k-means 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
+- 데이터 분석 – **_k-means 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
 
 * Analyze US census data for population segmentation using Amazon SageMaker
     * https://github.com/aws/amazon-sagemaker-examples/blob/master/introduction_to_applying_machine_learning/US-census_population_segmentation_PCA_Kmeans/sagemaker-countycensusclustering.ipynb
 
-13 차 데이터 분석 – **_텍스트 데이터 분석 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
+-  데이터 분석 – **_텍스트 데이터 분석 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
 
 * 토픽 모델링을 사용한 온라인 상품 부정 리뷰 분석
     * https://github.com/gonsoomoon-ml/topic-modeling
 
-14 차 모델 **_배포 Amazon SageMaker 를 활용한 모델 배포 실습_**
+* **_배포 Amazon SageMaker 를 활용한 모델 배포 실습_**
 
 * TensorFlow 2 프로젝트 워크플로우를 SageMaker에서 실행하기
     * https://github.com/mullue/sm-tf2/blob/master/tf-2-workflow.ipynb
