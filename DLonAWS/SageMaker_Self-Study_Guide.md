@@ -84,7 +84,7 @@
 
 
 
-## 데이터 과학 학습 커리큘럼
+## SageMaker를 이용한 데이터 과학 학습 자료
 
 - 데이터 분석 - **_선형회귀분석 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
 
@@ -93,8 +93,8 @@
 
 - 데이터 분석 – **_트리 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
 
-* ***Gradient Boosted Trees를 이용하는 지도학습: 편향된 클래스의 이진 분류 예측문제 해결***
-* https://github.com/mullue/xgboost/blob/master/1.xgboost_direct_marketing_sagemaker.ipynb
+  - ***Gradient Boosted Trees를 이용하는 지도학습: 편향된 클래스의 이진 분류 예측문제 해결***
+    -  https://github.com/mullue/xgboost/blob/master/1.xgboost_direct_marketing_sagemaker.ipynb
 
 - 데이터 분석 – **_인공신경망 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
 - 데이터 분석 – **_SVM 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
