@@ -1,4 +1,4 @@
-# Self-Study on SageMaker
+# Self-Study on SageMaker(https://bit.ly/sagemaker-self-study)
 
 > 혼자서 SageMaker를 배울 수 있도록 공개된 자료들을 모아놓았습니다.
 
