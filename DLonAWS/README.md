@@ -17,6 +17,8 @@
 [데모3: 명령형과 선언형 프로그래밍 비교](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo3.ipynb) 
 * * *
 
+[Amazon SageMaker 학습자료집](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/SageMaker_Self-Study_Guide.md)
+
 ## 무료 딥러닝 학습서 
 
 [Dive into Deep Learning (한글판)](http://ko.d2l.ai) - KDnuggets이 선정한 반드시 읽어야 할 10권의 무료 머신러닝 서적 중 하나. Jupyter notebook을 통해 직접 따라해 보면서 배울 수 있습니다.  
