@@ -17,7 +17,7 @@
 [데모3: 명령형과 선언형 프로그래밍 비교](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/Deep_Learning_on_AWS_demo3.ipynb) 
 * * *
 
-[Amazon SageMaker 학습자료집](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/SageMaker_Self-Study_Guide.md)
+## [Amazon SageMaker 학습자료집](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/SageMaker_Self-Study_Guide.md)
 
 ## 무료 딥러닝 학습서 
 
