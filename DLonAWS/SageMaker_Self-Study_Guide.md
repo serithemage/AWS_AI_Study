@@ -107,7 +107,7 @@
   - Analyze US census data for population segmentation using Amazon SageMaker
     * https://github.com/aws/amazon-sagemaker-examples/blob/master/introduction_to_applying_machine_learning/US-census_population_segmentation_PCA_Kmeans/sagemaker-countycensusclustering.ipynb
 
--  데이터 분석 – **_텍스트 데이터 분석 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
+- 데이터 분석 – **_텍스트 데이터 분석 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
   - 토픽 모델링을 사용한 온라인 상품 부정 리뷰 분석
     * https://github.com/gonsoomoon-ml/topic-modeling
 
