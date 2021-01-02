@@ -53,34 +53,34 @@
     * 공식 ML 블로그: 적용 사례, 다른 aws서비스와의 통합관련 예제나 기술 팁등 다양한 주제들이 다루어집니다.
         * aws ML blog(https://aws.amazon.com/ko/blogs/machine-learning/
     * 한글 예제 사이트
-        * - 자동차 번호판 인식 문제 해결에 SageMaker 적용해보기 - https://github.com/mullue/lab-custom-model-anpr
-        * - 빌트인 알고리즘을 이용한 한글처리 - https://github.com/daekeun-ml/blazingtext-workshop-korean
-        * - BERT 이용한 한글처리 - https://github.com/daekeun-ml/kobert-workshop
-        * - SageMaker와 EFS 연결하기 - https://aws.amazon.com/ko/blogs/machine-learning/speed-up-training-on-amazon-sagemaker-using-amazon-efs-or-amazon-fsx-for-lustre-file-systems/
-        * - Kubernetes Kubeflow와의 통합 - https://aws.amazon.com/ko/blogs/machine-learning/introducing-amazon-sagemaker-components-for-kubeflow-pipelines/
-        * - Elasticsearch와 연계한 이미지 검색 시스템 - https://aws.amazon.com/ko/blogs/machine-learning/building-a-visual-search-application-with-amazon-sagemaker-and-amazon-es/
-        * - Ground Truth를 이용한 3D 레이블링 - https://aws.amazon.com/ko/blogs/machine-learning/labeling-data-for-3d-object-tracking-and-sensor-fusion-in-amazon-sagemaker-ground-truth/
-        * - DLAMI를 이용한 분산학습 - https://aws.amazon.com/ko/blogs/machine-learning/multi-gpu-distributed-deep-learning-training-at-scale-on-aws-with-ubuntu18-dlami-efa-on-p3dn-instances-and-amazon-fsx-for-lustre/
+        * 자동차 번호판 인식 문제 해결에 SageMaker 적용해보기 - https://github.com/mullue/lab-custom-model-anpr
+        * 빌트인 알고리즘을 이용한 한글처리 - https://github.com/daekeun-ml/blazingtext-workshop-korean
+        * BERT 이용한 한글처리 - https://github.com/daekeun-ml/kobert-workshop
+        * SageMaker와 EFS 연결하기 - https://aws.amazon.com/ko/blogs/machine-learning/speed-up-training-on-amazon-sagemaker-using-amazon-efs-or-amazon-fsx-for-lustre-file-systems/
+        * Kubernetes Kubeflow와의 통합 - https://aws.amazon.com/ko/blogs/machine-learning/introducing-amazon-sagemaker-components-for-kubeflow-pipelines/
+        * Elasticsearch와 연계한 이미지 검색 시스템 - https://aws.amazon.com/ko/blogs/machine-learning/building-a-visual-search-application-with-amazon-sagemaker-and-amazon-es/
+        * Ground Truth를 이용한 3D 레이블링 - https://aws.amazon.com/ko/blogs/machine-learning/labeling-data-for-3d-object-tracking-and-sensor-fusion-in-amazon-sagemaker-ground-truth/
+        * DLAMI를 이용한 분산학습 - https://aws.amazon.com/ko/blogs/machine-learning/multi-gpu-distributed-deep-learning-training-at-scale-on-aws-with-ubuntu18-dlami-efa-on-p3dn-instances-and-amazon-fsx-for-lustre/
         * 유스케이스별로 deploy하여 확인할 수 있는 케이스는 aws solutions ML 섹션을 참고하십시오.
-            * - https://aws.amazon.com/solutions/implementations/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&awsf.AWS-Product%20Category=tech-category%23ai-ml
+            * https://aws.amazon.com/solutions/implementations/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&awsf.AWS-Product%20Category=tech-category%23ai-ml
     * 워크샵
         *  동일 사이트의 reference 페이지 (https://www.sagemaker-workshop-kr.com/kr/references.html)
 * 기타 유용한 자료 (백서 등)
     * ML 프로젝트 전반에 대한 이해가 필요하시면 다음 AWS ML백서들이 도움이 되실 수 있습니다.
-        * - https://d1.awsstatic.com/whitepapers/Deep_Learning_on_AWS.pdf?did=wp_card&trk=wp_card
-        * - https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf?did=wp_card&trk=wp_card
+        * https://d1.awsstatic.com/whitepapers/Deep_Learning_on_AWS.pdf?did=wp_card&trk=wp_card
+        * https://d1.awsstatic.com/whitepapers/aws-managing-ml-projects.pdf?did=wp_card&trk=wp_card
     * 체계적인 교육
-        * - Udacity nanodegree 코스 - https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t
-        * - Coursera Sagemaker - https://www.coursera.org/lecture/aws-machine-learning/introduction-to-amazon-sagemaker-QugTh
-        * - Coursera computer vision - https://www.coursera.org/learn/aws-computer-vision-gluoncv
+        * Udacity nanodegree 코스 - https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t
+        * Coursera Sagemaker - https://www.coursera.org/lecture/aws-machine-learning/introduction-to-amazon-sagemaker-QugTh
+        * Coursera computer vision - https://www.coursera.org/learn/aws-computer-vision-gluoncv
     * 외부 사이트
         * [medium.com](http://medium.com/) 에서 검색해서 사용
         * 비젼 딥 러닝
             * 라온 피블 블로그
-            * https://m.blog.naver.com/PostList.nhn?blogId=laonple
+              * https://m.blog.naver.com/PostList.nhn?blogId=laonple
         * NLP 딥러닝
             * 딥 러닝을 이용한 자연어 처리 입문
-            * https://wikidocs.net/book/2155
+              * https://wikidocs.net/book/2155
 
 
 
