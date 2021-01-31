@@ -1,4 +1,4 @@
-# The Machine Learning pipeline on AWS
+# The Machine Learning pipeline on AWS(http://bit.ly/ml-pipeline)
 > 이 곳은 The Machine Learning pipeline on AWS 수업을 위한 자료 모음집 입니다.
 
 
