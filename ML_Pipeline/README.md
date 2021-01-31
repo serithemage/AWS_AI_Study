@@ -15,3 +15,6 @@
   - [Speed Up Your Exploratory Data Analysis With Pandas-Profiling](https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625)
   - [pandas의 극강의 라이브러리 Pandas Profiling](https://john-analyst.medium.com/pandas-%EC%9D%98-%EA%B7%B9%EA%B0%95%EC%9D%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-pandas-profiling-b5187dbcbd26)
   
+## Amazon SageMaker
+- [SageMaker Notebook Instance Lifecycle Config Samples](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples)
+  - [auto-stop-idle](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples/tree/master/scripts/auto-stop-idle) - 1시간 이상 노트북 사용이 없을 경우 자동으로 중지
