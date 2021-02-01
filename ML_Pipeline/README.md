@@ -35,6 +35,7 @@
 
 ## 참고자료
 ### 서적
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [비즈니스 머신러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B6474110466) - 아마존 세이지메이커와 주피터를 활용한 빠르고 효과적인 머신러닝 활용법
 - [세상에서 가장 쉬운 통계학 입문](http://www.yes24.com/Product/Goods/3625262)
 - [세상에서 가장 쉬운 베이즈통계학 입문](http://www.yes24.com/Product/Goods/36928073)
