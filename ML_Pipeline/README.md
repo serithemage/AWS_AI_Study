@@ -1,6 +1,16 @@
 # The Machine Learning pipeline on AWS(http://bit.ly/ml-pipeline)
 > 이 곳은 The Machine Learning pipeline on AWS 수업을 위한 자료 모음집 입니다.
 
+
+## Jupyter notebook
+- [How to Use Jupyter Notebook in 2020: A Beginner’s Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+- [Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough](https://www.youtube.com/watch?v=HW29067qVWk)
+
+## Amazon SageMaker
+- [SageMaker Notebook Instance Lifecycle Config Samples](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples)
+  - [auto-stop-idle](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples/tree/master/scripts/auto-stop-idle) - 1시간 이상 노트북 사용이 없을 경우 자동으로 중지
+- [SageMaker 셀프 스터디 가이드](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/SageMaker_Self-Study_Guide.md)
+
 ## 데이터 분석 및 전처리
 - [Amazon SageMaker Ground Truth 처음 시작하기](https://aws.amazon.com/ko/getting-started/hands-on/build-training-datasets-amazon-sagemaker-ground-truth/)
 - [Open source data labeling tools](https://github.com/heartexlabs/awesome-data-labeling)
@@ -22,15 +32,6 @@
   - [Speed Up Your Exploratory Data Analysis With Pandas-Profiling](https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625)
   - [pandas의 극강의 라이브러리 Pandas Profiling](https://john-analyst.medium.com/pandas-%EC%9D%98-%EA%B7%B9%EA%B0%95%EC%9D%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-pandas-profiling-b5187dbcbd26)
 - [pandas를 SQL처럼 쓰는법](https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e)
-
-## Jupyter notebook
-- [How to Use Jupyter Notebook in 2020: A Beginner’s Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
-- [Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough](https://www.youtube.com/watch?v=HW29067qVWk)
-
-## Amazon SageMaker
-- [SageMaker Notebook Instance Lifecycle Config Samples](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples)
-  - [auto-stop-idle](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples/tree/master/scripts/auto-stop-idle) - 1시간 이상 노트북 사용이 없을 경우 자동으로 중지
-- [SageMaker 셀프 스터디 가이드](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/SageMaker_Self-Study_Guide.md)
 
 ## 참고자료
 ### 서적
