@@ -11,6 +11,7 @@
 - [파이썬을 이용한 탐색적 자료 분석(Exploratory Data Analysis:EDA)](https://3months.tistory.com/325)
 - [Exploratory Data Analysis (EDA) in Python](https://medium.com/@atanudan/exploratory-data-analysis-eda-in-python-893f963cc0c0)
 - [boxplot 해석방법](https://codedragon.tistory.com/7012)
+- [t-SNE 개념과 사용법](https://gaussian37.github.io/ml-concept-t-SNE/)
 - Pandas Profiling
   - [Speed Up Your Exploratory Data Analysis With Pandas-Profiling](https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625)
   - [pandas의 극강의 라이브러리 Pandas Profiling](https://john-analyst.medium.com/pandas-%EC%9D%98-%EA%B7%B9%EA%B0%95%EC%9D%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-pandas-profiling-b5187dbcbd26)
@@ -18,3 +19,17 @@
 ## Amazon SageMaker
 - [SageMaker Notebook Instance Lifecycle Config Samples](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples)
   - [auto-stop-idle](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples/tree/master/scripts/auto-stop-idle) - 1시간 이상 노트북 사용이 없을 경우 자동으로 중지
+
+## 참고자료
+### 서적
+- [비즈니스 머신러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B6474110466) - 아마존 세이지메이커와 주피터를 활용한 빠르고 효과적인 머신러닝 활용법
+- [세상에서 가장 쉬운 통계학 입문](http://www.yes24.com/Product/Goods/3625262)
+- [세상에서 가장 쉬운 베이즈통계학 입문](http://www.yes24.com/Product/Goods/36928073)
+- [혼자 공부하는 머신러닝 + 딥러닝](https://books.google.co.kr/books?id=9Q0REAAAQBAJ&printsec=frontcover&dq=%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&hl=ko&sa=X&ved=2ahUKEwjEkLSimcjuAhV0LH0KHTV4Dg8Q6AEwAHoECAQQAg#v=onepage&q=%ED%98%BC%EC%9E%90%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&f=false)
+- [핸즈온 머신러닝(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B7033438574) - 사이킷런, 케라스, 텐서플로 2를 활용한 머신러닝, 딥러닝 완벽 실무
+- [틀리지 않는 법: 수학적 사고의 힘](https://books.google.co.kr/books/about/%ED%8B%80%EB%A6%AC%EC%A7%80_%EC%95%8A%EB%8A%94_%EB%B2%95.html?id=r6o9DAAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false) 
+
+### 블로그
+- [AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/)
+- [KDNuggets](https://www.kdnuggets.com/)
+- [Towards Data Science](https://towardsdatascience.com/)
