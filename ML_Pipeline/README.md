@@ -8,14 +8,18 @@
 - [One-Hot 인코딩 이란?](https://www.kakaobrain.com/blog/6)
 - [어떤 스케일러를 쓸 것인가? StandardScaler, MinMaxScaler, MaxAbsScaler, RobustScaler](https://mkjjo.github.io/python/2019/01/10/scaler.html)
 - [평균에 대한 정리(mean, median, mode)](https://blog.acronym.co.kr/401)
+- [t-SNE 개념과 사용법](https://gaussian37.github.io/ml-concept-t-SNE/)
+
 ### EDA
 - [파이썬을 이용한 탐색적 자료 분석(Exploratory Data Analysis:EDA)](https://3months.tistory.com/325)
 - [Exploratory Data Analysis (EDA) in Python](https://medium.com/@atanudan/exploratory-data-analysis-eda-in-python-893f963cc0c0)
 - [boxplot 해석방법](https://codedragon.tistory.com/7012)
-- [t-SNE 개념과 사용법](https://gaussian37.github.io/ml-concept-t-SNE/)
+
+### Pandas
 - Pandas Profiling
   - [Speed Up Your Exploratory Data Analysis With Pandas-Profiling](https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625)
   - [pandas의 극강의 라이브러리 Pandas Profiling](https://john-analyst.medium.com/pandas-%EC%9D%98-%EA%B7%B9%EA%B0%95%EC%9D%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-pandas-profiling-b5187dbcbd26)
+- [pandas를 SQL처럼 쓰는법](https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e)
   
 ## Amazon SageMaker
 - [SageMaker Notebook Instance Lifecycle Config Samples](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples)
