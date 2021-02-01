@@ -9,11 +9,11 @@
 - [어떤 스케일러를 쓸 것인가? StandardScaler, MinMaxScaler, MaxAbsScaler, RobustScaler](https://mkjjo.github.io/python/2019/01/10/scaler.html)
 - [평균에 대한 정리(mean, median, mode)](https://blog.acronym.co.kr/401)
 - [t-SNE 개념과 사용법](https://gaussian37.github.io/ml-concept-t-SNE/)
+- [boxplot 해석방법](https://codedragon.tistory.com/7012)
 
-## EDA
+## EDA in Python
 - [파이썬을 이용한 탐색적 자료 분석(Exploratory Data Analysis:EDA)](https://3months.tistory.com/325)
 - [Exploratory Data Analysis (EDA) in Python](https://medium.com/@atanudan/exploratory-data-analysis-eda-in-python-893f963cc0c0)
-- [boxplot 해석방법](https://codedragon.tistory.com/7012)
 
 ## Pandas
 - [Data preprocessing with Python Pandas](https://towardsdatascience.com/data-preprocessing-with-python-pandas-part-1-missing-data-45e76b781993)
