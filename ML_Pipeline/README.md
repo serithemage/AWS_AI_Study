@@ -27,6 +27,7 @@
 - [평균에 대한 정리(mean, median, mode)](https://blog.acronym.co.kr/401)
 - [t-SNE 개념과 사용법](https://gaussian37.github.io/ml-concept-t-SNE/)
 - [boxplot 해석방법](https://codedragon.tistory.com/7012)
+- [왜도와 첨도](https://m.blog.naver.com/PostView.nhn?blogId=s2ak74&logNo=220616766539&proxyReferer=https:%2F%2Fwww.google.com%2F)
 
 ## EDA in Python
 - [파이썬을 이용한 탐색적 자료 분석(Exploratory Data Analysis:EDA)](https://3months.tistory.com/325)
