@@ -8,7 +8,7 @@
 
 ## Jupyter notebook
 - [How to Use Jupyter Notebook in 2020: A Beginner’s Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
-- [Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough](https://www.youtube.com/watch?v=HW29067qVWk)
+- [Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough(영상 튜토리얼)](https://www.youtube.com/watch?v=HW29067qVWk)
 
 ## Amazon SageMaker
 - [SageMaker 셀프 스터디 가이드](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/SageMaker_Self-Study_Guide.md)
@@ -21,7 +21,7 @@
 ## 데이터 분석 및 전처리
 - [Amazon SageMaker Ground Truth 처음 시작하기](https://aws.amazon.com/ko/getting-started/hands-on/build-training-datasets-amazon-sagemaker-ground-truth/)
 - [Open source data labeling tools](https://github.com/heartexlabs/awesome-data-labeling)
-- [주성분 분석(PCA) 설명 - 공돌이의 수학정리노트](https://angeloyeo.github.io/2019/07/27/PCA.html)
+- [주성분 분석(PCA) 설명](https://angeloyeo.github.io/2019/07/27/PCA.html)
 - [One-Hot 인코딩 이란?](https://www.kakaobrain.com/blog/6)
 - [어떤 스케일러를 쓸 것인가? StandardScaler, MinMaxScaler, MaxAbsScaler, RobustScaler](https://mkjjo.github.io/python/2019/01/10/scaler.html)
 - [평균에 대한 정리(mean, median, mode)](https://blog.acronym.co.kr/401)
