@@ -15,6 +15,9 @@
 - [SageMaker Notebook Instance Lifecycle Config Samples](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples)
   - [auto-stop-idle](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples/tree/master/scripts/auto-stop-idle) - 1시간 이상 노트북 사용이 없을 경우 자동으로 중지
 
+## 문제 공식화
+- [핸즈온 머신러닝에서 제안한 머신러닝 프로젝트 체크리스트](https://github.com/ageron/handson-ml/blob/master/ml-project-checklist.md)
+
 ## 데이터 분석 및 전처리
 - [Amazon SageMaker Ground Truth 처음 시작하기](https://aws.amazon.com/ko/getting-started/hands-on/build-training-datasets-amazon-sagemaker-ground-truth/)
 - [Open source data labeling tools](https://github.com/heartexlabs/awesome-data-labeling)
