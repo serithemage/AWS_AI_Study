@@ -4,9 +4,9 @@
 ## Python 기초
 - [파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
 - [ Learn Python On AWS Workshop](https://learn-to-code.workshop.aws/)
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Jupyter notebook
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [How to Use Jupyter Notebook in 2020: A Beginner’s Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - [Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough(영상 튜토리얼)](https://www.youtube.com/watch?v=HW29067qVWk)
 
