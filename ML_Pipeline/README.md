@@ -11,9 +11,9 @@
 - [Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough](https://www.youtube.com/watch?v=HW29067qVWk)
 
 ## Amazon SageMaker
+- [SageMaker 셀프 스터디 가이드](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/SageMaker_Self-Study_Guide.md)
 - [SageMaker Notebook Instance Lifecycle Config Samples](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples)
   - [auto-stop-idle](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples/tree/master/scripts/auto-stop-idle) - 1시간 이상 노트북 사용이 없을 경우 자동으로 중지
-- [SageMaker 셀프 스터디 가이드](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/SageMaker_Self-Study_Guide.md)
 
 ## 데이터 분석 및 전처리
 - [Amazon SageMaker Ground Truth 처음 시작하기](https://aws.amazon.com/ko/getting-started/hands-on/build-training-datasets-amazon-sagemaker-ground-truth/)
