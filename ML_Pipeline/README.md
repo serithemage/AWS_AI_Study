@@ -1,6 +1,10 @@
 # The Machine Learning pipeline on AWS(http://bit.ly/ml-pipeline)
 > 이 곳은 The Machine Learning pipeline on AWS 수업을 위한 자료 모음집 입니다.
 
+## Python 기초
+- [파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
+- [ Learn Python On AWS Workshop](https://learn-to-code.workshop.aws/)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 ## Jupyter notebook
 - [How to Use Jupyter Notebook in 2020: A Beginner’s Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
@@ -33,9 +37,14 @@
   - [pandas의 극강의 라이브러리 Pandas Profiling](https://john-analyst.medium.com/pandas-%EC%9D%98-%EA%B7%B9%EA%B0%95%EC%9D%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-pandas-profiling-b5187dbcbd26)
 - [pandas를 SQL처럼 쓰는법](https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e)
 
+## 트레이닝
+- TBD
+
+## 검증
+- [교차검증](https://m.blog.naver.com/ckdgus1433/221599517834)
+
 ## 참고자료
 ### 서적
-- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [비즈니스 머신러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B6474110466) - 아마존 세이지메이커와 주피터를 활용한 빠르고 효과적인 머신러닝 활용법
 - [세상에서 가장 쉬운 통계학 입문](http://www.yes24.com/Product/Goods/3625262)
 - [세상에서 가장 쉬운 베이즈통계학 입문](http://www.yes24.com/Product/Goods/36928073)
