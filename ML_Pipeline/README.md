@@ -3,7 +3,7 @@
 
 ## Python 기초
 - [파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
-- [ Learn Python On AWS Workshop](https://learn-to-code.workshop.aws/)
+- [Learn Python On AWS Workshop](https://learn-to-code.workshop.aws/)
 
 ## Jupyter notebook
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
