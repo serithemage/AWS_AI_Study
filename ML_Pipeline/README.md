@@ -38,6 +38,7 @@
 - [분위수(quantile)](https://bioinformaticsandme.tistory.com/246)
 - [대푯값 - 평균, 중앙값, 최빈값, 사분위수, 백분위수, 절사 평균, 이상점, 기댓값](https://namu.wiki/w/%EB%8C%80%ED%91%AF%EA%B0%92)
 - [로그를 이용하여 데이터의 분포를 정규분포로 만들기](https://hong-yp-ml-records.tistory.com/28)
+  - [위 문서에 나온 numpy.log1p(=log(1+x))의 모양](https://www.wolframalpha.com/input/?i=log%281+%2B+x%29)
 - [정규 분포로 분포 변환 (PowerTransformer, 로그 변환)](https://wikidocs.net/83559)
 - [선형 회귀 모델에서 '선형'이 의미하는 것은 무엇인가?](https://brunch.co.kr/@gimmesilver/18)
 
