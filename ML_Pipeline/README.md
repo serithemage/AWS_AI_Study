@@ -5,11 +5,13 @@
 ### 실습1 - Project: Bank Marketing Prediction(정기예금 전화 마케팅 예측)
 - [Project: Bank Marketing Prediction](https://github.com/shashankvarshney/MLND-Capstone-project-Bank-Marketing-Prediction) - 분석 및 예측 전반에 걸친 세세한 내용이 잘 정리된 github 리포지토리입니다.
 
-### 워크숍 - 
-### 워크숍 - 카드 사기 탐지
+### 워크숍 - 아마존 리뷰
+- [Amazon Customer Reviews Dataset](https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
+### 워크숍 - 신용카드 사기 탐지
 - [신용카드 사기 거래 감지하기](https://laboputer.github.io/machine-learning/2020/05/29/creditcardfraud/) - EDA와 데이터 클랜징 뿐만 아니라 알고리즘 선택과 모델 학습까지 정리된 블로그 글
 - [Credit Fraud || Dealing with Imbalanced Datasets(Kaggle)](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)
-
+### 워크숍 - 비행기 지연 예측
+- [Predicting flight delays(Kaggle)](https://www.kaggle.com/fabiendaniel/predicting-flight-delays-tutorial)
 
 ## Python 기초
 - [파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
@@ -46,6 +48,7 @@
   - [위 문서에 나온 numpy.log1p(=log(1+x))의 모양](https://www.wolframalpha.com/input/?i=log%281+%2B+x%29)
 - [정규 분포로 분포 변환 (PowerTransformer, 로그 변환)](https://wikidocs.net/83559)
 - [선형 회귀 모델에서 '선형'이 의미하는 것은 무엇인가?](https://brunch.co.kr/@gimmesilver/18)
+- [차원 축소 - PCA, 주성분분석](https://excelsior-cjh.tistory.com/167)
 
 ## EDA in Python
 - [파이썬을 이용한 탐색적 자료 분석(Exploratory Data Analysis:EDA)](https://3months.tistory.com/325)
