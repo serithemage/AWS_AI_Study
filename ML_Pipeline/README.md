@@ -1,9 +1,14 @@
 # The Machine Learning pipeline on AWS(http://bit.ly/ml-pipeline)
 > 이 곳은 The Machine Learning pipeline on AWS 수업을 위한 자료 모음집 입니다.
 
-## 실습
+## 실습 & 워크숍
 ### 실습1 - Project: Bank Marketing Prediction(정기예금 전화 마케팅 예측)
 - [Project: Bank Marketing Prediction](https://github.com/shashankvarshney/MLND-Capstone-project-Bank-Marketing-Prediction) - 분석 및 예측 전반에 걸친 세세한 내용이 잘 정리된 github 리포지토리입니다.
+
+### 워크숍 - 
+### 워크숍 - 카드 사기 탐지
+- [신용카드 사기 거래 감지하기](https://laboputer.github.io/machine-learning/2020/05/29/creditcardfraud/) - EDA와 데이터 클랜징 뿐만 아니라 알고리즘 선택과 모델 학습까지 정리된 블로그 글
+- [Credit Fraud || Dealing with Imbalanced Datasets(Kaggle)](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)
 
 
 ## Python 기초
