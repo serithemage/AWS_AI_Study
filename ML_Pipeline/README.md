@@ -31,6 +31,8 @@
 - [왜도와 첨도](https://m.blog.naver.com/PostView.nhn?blogId=s2ak74&logNo=220616766539&proxyReferer=https:%2F%2Fwww.google.com%2F)
 - [결측치 처리](https://wooono.tistory.com/103)
 - [분위수(quantile)](https://bioinformaticsandme.tistory.com/246)
+- [대푯값 - 평균, 중앙값, 최빈값, 사분위수, 백분위수, 절사 평균, 이상점, 기댓값](https://namu.wiki/w/%EB%8C%80%ED%91%AF%EA%B0%92)
+- [로그를 이용하여 데이터의 분포를 정규분포로 만들기](https://hong-yp-ml-records.tistory.com/28)
 
 ## EDA in Python
 - [파이썬을 이용한 탐색적 자료 분석(Exploratory Data Analysis:EDA)](https://3months.tistory.com/325)
