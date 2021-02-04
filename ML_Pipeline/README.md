@@ -1,6 +1,11 @@
 # The Machine Learning pipeline on AWS(http://bit.ly/ml-pipeline)
 > 이 곳은 The Machine Learning pipeline on AWS 수업을 위한 자료 모음집 입니다.
 
+## 실습
+### 실습1 - Project: Bank Marketing Prediction(정기예금 전화 마케팅 예측)
+- [Project: Bank Marketing Prediction](https://github.com/shashankvarshney/MLND-Capstone-project-Bank-Marketing-Prediction) - 분석 및 예측 전반에 걸친 세세한 내용이 잘 정리된 github 리포지토리입니다.
+
+
 ## Python 기초
 - [파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
 - [Learn Python On AWS Workshop](https://learn-to-code.workshop.aws/)
