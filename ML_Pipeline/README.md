@@ -63,12 +63,27 @@
 - [pandas를 SQL처럼 쓰는법](https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e)
 
 ## 트레이닝
-- TBD
+- [SageMaker 처음 사용자용 훈련 예제](https://aws.amazon.com/ko/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/)
+- [SageMaker 워크숍(한글)](https://www.sagemaker-workshop-kr.com/)
+  - [MODULE 5: TENSORFLOW MNIST로 자동 모델 튜닝하기]((https://www.sagemaker-workshop-kr.com/kr/sagemaker/_module_5.html))
+- [SageMaker 하이퍼파라미터 튜닝작업 예제](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/automatic-model-tuning-ex.html)
+- [SageMaker Autopilot 사용 예제](https://aws.amazon.com/ko/getting-started/hands-on/create-machine-learning-model-automatically-sagemaker-autopilot/)
+- [SageMaker Autopilot Workshop](https://www.getstartedonsagemaker.com/workshop/)
+
+## 추론
+- [Amazon SageMaker 모델 레지스트리에 모델 등록 및 배포](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/model-registry.html)
+- [Amazon SageMaker 다중 모델 엔드포인트을 사용하여 여러 모델 호스팅](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/multi-model-endpoints.html)
+- [Amazon SageMaker Model Monitor](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/model-monitor.html)
+  - [https://aws.amazon.com/ko/blogs/aws/amazon-sagemaker-model-monitor-fully-managed-automatic-monitoring-for-your-machine-learning-models/](https://aws.amazon.com/ko/blogs/aws/amazon-sagemaker-model-monitor-fully-managed-automatic-monitoring-for-your-machine-learning-models/)
+- [추론 파이프라인 배포](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/inference-pipelines.html)
+- [Amazon SageMaker Endpoint Auto Scaling](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/endpoint-auto-scaling.html)
 
 ## 검증
 - [교차검증](https://m.blog.naver.com/ckdgus1433/221599517834)
+- [혼동행렬](https://itwiki.kr/w/%ED%98%BC%EB%8F%99_%ED%96%89%EB%A0%AC)
+- [ROC-AUC](https://nittaku.tistory.com/297)
 - [R Square](https://agronomy4future.com/2020/10/27/%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%EC%9D%98-%EA%B2%B0%EC%A0%95%EA%B3%84%EC%88%98-r-squared-%EB%A5%BC-%EA%B0%80%EC%9E%A5-%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%B4-%EB%B3%B4%EC%9E%90/)
-- [29가지 통계 개념 - 수정된 R제곱 무엇에 사용하는 것인가?](https://chukycheese.github.io/statistics/adjusted-r2/)
+  - [29가지 통계 개념 - 수정된 R제곱 무엇에 사용하는 것인가?](https://chukycheese.github.io/statistics/adjusted-r2/)
 
 ## 참고자료
 ### 서적
