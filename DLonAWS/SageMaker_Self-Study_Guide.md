@@ -94,14 +94,14 @@
 - 데이터 분석 – **_트리 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
 
   - ***Gradient Boosted Trees를 이용하는 지도학습: 편향된 클래스의 이진 분류 예측문제 해결***
-    -  https://github.com/mullue/xgboost/blob/master/1.xgboost_direct_marketing_sagemaker.ipynb
+    - https://github.com/mullue/xgboost/blob/master/1.xgboost_direct_marketing_sagemaker.ipynb
 
 - 데이터 분석 – **_인공신경망 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
   - (TBD)
 - 데이터 분석 – **_SVM 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
   - (TBD)
 - 데이터 분석 – **_Naive Bayses 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
-  - (TBD)
+  - https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html
 
 - 데이터 분석 – **_k-means 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
   - Analyze US census data for population segmentation using Amazon SageMaker
