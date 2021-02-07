@@ -111,8 +111,9 @@
   - 토픽 모델링을 사용한 온라인 상품 부정 리뷰 분석
     * https://github.com/gonsoomoon-ml/topic-modeling
 
-- **_rcf 와 deepar_** 를 이용한 시계열 데이터 이상탐지 
-  - https://github.com/aws-samples/amazon-sagemaker-anomaly-detection-with-rcf-and-deepar
+- 데이터 분석 - 시계열 데이터 분석 이론 + 실습
+  - **_rcf 와 deepar_** 를 이용한 시계열 데이터 이상탐지 
+    * https://github.com/aws-samples/amazon-sagemaker-anomaly-detection-with-rcf-and-deepar
 
 - **_배포 Amazon SageMaker 를 활용한 모델 배포 실습_**
   - TensorFlow 2 프로젝트 워크플로우를 SageMaker에서 실행하기
