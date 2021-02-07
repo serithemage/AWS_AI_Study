@@ -24,6 +24,7 @@
 
 ## Amazon SageMaker
 - [SageMaker 설명서](https://docs.aws.amazon.com/ko_kr/sagemaker/index.html)
+- [Amazon SageMaker 데모 - 김대근, AWS 데이터 사이언티스트 :: AIML 특집 웨비나](https://www.youtube.com/watch?v=miIVGlq6OUk) - 한국어로 친철하게 설명한 SageMaker 데모
 - [SageMaker 셀프 스터디 가이드](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/SageMaker_Self-Study_Guide.md)
 - [SageMaker Notebook Instance Lifecycle Config Samples](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples)
   - [auto-stop-idle](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples/tree/master/scripts/auto-stop-idle) - 1시간 이상 노트북 사용이 없을 경우 자동으로 중지시키는 스크립트
