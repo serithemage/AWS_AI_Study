@@ -61,7 +61,7 @@
 ### Pandas
 - [Data preprocessing with Python Pandas](https://towardsdatascience.com/data-preprocessing-with-python-pandas-part-1-missing-data-45e76b781993)
 - [Pandas와 scikit-learn으로 정말 간단한 pre-processing 몇 가지 팁](https://teddylee777.github.io/scikit-learn/sklearn%EC%99%80-pandas%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)
-- Pandas Profiling - <span style="color: green">EDA 끝판왕!</span>
+- [Pandas Profiling](https://github.com/pandas-profiling/pandas-profiling#documentation)
   - [Speed Up Your Exploratory Data Analysis With Pandas-Profiling](https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625)
   - [pandas의 극강의 라이브러리 Pandas Profiling](https://john-analyst.medium.com/pandas-%EC%9D%98-%EA%B7%B9%EA%B0%95%EC%9D%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-pandas-profiling-b5187dbcbd26)
 - [pandas를 SQL처럼 쓰는법](https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e)
@@ -69,7 +69,7 @@
 ## 트레이닝
 - [SageMaker 처음 사용자용 훈련 예제](https://aws.amazon.com/ko/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/)
 - [SageMaker 워크숍(한글)](https://www.sagemaker-workshop-kr.com/)
-  - [MODULE 5: TENSORFLOW MNIST로 자동 모델 튜닝하기]((https://www.sagemaker-workshop-kr.com/kr/sagemaker/_module_5.html))
+  - [MODULE 5: TENSORFLOW MNIST로 자동 모델 튜닝하기]((https://www.sagemaker-workshop-kr.com/kr/sagemaker/_module_5.html)
 - [SageMaker 하이퍼파라미터 튜닝작업 예제](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/automatic-model-tuning-ex.html)
 - [SageMaker Autopilot 사용 예제](https://aws.amazon.com/ko/getting-started/hands-on/create-machine-learning-model-automatically-sagemaker-autopilot/)
 - [SageMaker Autopilot Workshop](https://www.getstartedonsagemaker.com/workshop/)
