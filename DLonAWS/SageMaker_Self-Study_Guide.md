@@ -26,7 +26,7 @@
     * SageMaker demo - https://youtu.be/miIVGlq6OUk (1시간 데모에 많은 내용을 압축해서 다루고 있습니다. 반복해서 보시거나 돌려보기로 차근차근 보셔도 괜찮습니다.)
 * Introduction to Amazon SageMaker (12분)
     * 코세라 공식 세이지 메이커 소개 비디오
-    * https://www.coursera.org/lecture/aws-machine-learning/introduction-to-amazon-sagemaker-QugTh
+      * https://www.coursera.org/lecture/aws-machine-learning/introduction-to-amazon-sagemaker-QugTh
 * Amazon SageMaker Deep Dive Series** (아래 두개만 일단 보셔도 됩니다. 각 비디오가 약 10-20분 사이 입니다.)**
     * https://www.youtube.com/playlist?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz
         * Fully-Managed Notebook Instanaces with Amazon SageMaker - a Deep Dive
