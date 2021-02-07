@@ -69,7 +69,7 @@
 ## 트레이닝
 - [SageMaker 처음 사용자용 훈련 예제](https://aws.amazon.com/ko/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/)
 - [SageMaker 워크숍(한글)](https://www.sagemaker-workshop-kr.com/)
-  - [MODULE 5: TENSORFLOW MNIST로 자동 모델 튜닝하기]((https://www.sagemaker-workshop-kr.com/kr/sagemaker/_module_5.html)
+  - [MODULE 5: TENSORFLOW MNIST로 자동 모델 튜닝하기](https://www.sagemaker-workshop-kr.com/kr/sagemaker/_module_5.html)
 - [SageMaker 하이퍼파라미터 튜닝작업 예제](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/automatic-model-tuning-ex.html)
 - [SageMaker Autopilot 사용 예제](https://aws.amazon.com/ko/getting-started/hands-on/create-machine-learning-model-automatically-sagemaker-autopilot/)
 - [SageMaker Autopilot Workshop](https://www.getstartedonsagemaker.com/workshop/)
