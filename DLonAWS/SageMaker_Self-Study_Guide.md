@@ -97,9 +97,9 @@
     - https://github.com/mullue/xgboost/blob/master/1.xgboost_direct_marketing_sagemaker.ipynb
 
 - 데이터 분석 – **_인공신경망 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
-  - (TBD)
+  - https://github.com/SDRLurker/deep-learning - 노트북으로 정리한 밑바닥부터 시작하는 딥러닝 예제들
 - 데이터 분석 – **_SVM 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
-  - (TBD)
+  - https://github.com/Jean-njoroge/Breast-cancer-risk-prediction - 유방암 위험 분석
 - 데이터 분석 – **_Naive Bayses 이론_** 및 Jupyter Notebook 코드리뷰 이론 + 실습
   - https://jakevdp.github.io/PythonDataScienceHandbook/05.05-naive-bayes.html
 
