@@ -78,7 +78,7 @@
 - [Amazon SageMaker 모델 레지스트리에 모델 등록 및 배포](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/model-registry.html)
 - [Amazon SageMaker 다중 모델 엔드포인트을 사용하여 여러 모델 호스팅](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/multi-model-endpoints.html)
 - [Amazon SageMaker Model Monitor](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/model-monitor.html)
-  - [https://aws.amazon.com/ko/blogs/aws/amazon-sagemaker-model-monitor-fully-managed-automatic-monitoring-for-your-machine-learning-models/](https://aws.amazon.com/ko/blogs/aws/amazon-sagemaker-model-monitor-fully-managed-automatic-monitoring-for-your-machine-learning-models/)
+  - [Amazon SageMaker Model Monitor – Fully Managed Automatic Monitoring For Your Machine Learning Models](https://aws.amazon.com/ko/blogs/aws/amazon-sagemaker-model-monitor-fully-managed-automatic-monitoring-for-your-machine-learning-models/)
 - [추론 파이프라인 배포](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/inference-pipelines.html)
 - [Amazon SageMaker Endpoint Auto Scaling](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/endpoint-auto-scaling.html)
 
@@ -94,10 +94,10 @@
 - [비즈니스 머신러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B6474110466) - 아마존 세이지메이커와 주피터를 활용한 빠르고 효과적인 머신러닝 활용법
 - [세상에서 가장 쉬운 통계학 입문](http://www.yes24.com/Product/Goods/3625262)
 - [세상에서 가장 쉬운 베이즈통계학 입문](http://www.yes24.com/Product/Goods/36928073)
-- [혼자 공부하는 머신러닝 + 딥러닝](https://books.google.co.kr/books?id=9Q0REAAAQBAJ&printsec=frontcover&dq=%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&hl=ko&sa=X&ved=2ahUKEwjEkLSimcjuAhV0LH0KHTV4Dg8Q6AEwAHoECAQQAg#v=onepage&q=%ED%98%BC%EC%9E%90%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&f=false) <span style="color: red">강추!</span>
-- [밑바닥부터 시작하는 딥러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198) - 가장 쉽게 딥러닝의 작동원리와 구현을 설명한 책 <span style="color: red">강추!</span>
+- [혼자 공부하는 머신러닝 + 딥러닝](https://books.google.co.kr/books?id=9Q0REAAAQBAJ&printsec=frontcover&dq=%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&hl=ko&sa=X&ved=2ahUKEwjEkLSimcjuAhV0LH0KHTV4Dg8Q6AEwAHoECAQQAg#v=onepage&q=%ED%98%BC%EC%9E%90%20%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D&f=false)
+- [밑바닥부터 시작하는 딥러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198) - 가장 쉽게 딥러닝의 작동원리와 구현을 설명한 책
   - [파이썬 노트북으로 정리한 밑바닥부터 시작하는 딥러닝 예제들](https://github.com/SDRLurker/deep-learning) 
-- [핸즈온 머신러닝(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B7033438574) - 난이도가 있지만 실무자의 시선에서 머신러닝 전반을 자세하게 다룬 책 <span style="color: red">강추!</span>
+- [핸즈온 머신러닝(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B7033438574) - 난이도가 있지만 실무자의 시선에서 머신러닝 전반을 자세하게 다룬 책
 - [틀리지 않는 법: 수학적 사고의 힘](https://books.google.co.kr/books/about/%ED%8B%80%EB%A6%AC%EC%A7%80_%EC%95%8A%EB%8A%94_%EB%B2%95.html?id=r6o9DAAAQBAJ&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false) - 수학적 사고에 대해서 통찰한 교양서적
 
 ### 블로그
