@@ -23,10 +23,14 @@
 - [Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough(영상 튜토리얼)](https://www.youtube.com/watch?v=HW29067qVWk)
 
 ## Amazon SageMaker
+- [SageMaker 설명서](https://docs.aws.amazon.com/ko_kr/sagemaker/index.html)
 - [SageMaker 셀프 스터디 가이드](https://github.com/serithemage/AWS_AI_Study/blob/master/DLonAWS/SageMaker_Self-Study_Guide.md)
 - [SageMaker Notebook Instance Lifecycle Config Samples](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples)
   - [auto-stop-idle](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples/tree/master/scripts/auto-stop-idle) - 1시간 이상 노트북 사용이 없을 경우 자동으로 중지시키는 스크립트
 - [SageMaker 내장 알고리즘](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/algos.html)
+- [SageMaker Script Mode 예제](https://github.com/aws-samples/amazon-sagemaker-script-mode)
+- [SageMAaker BYOC(Bring Your Own Container)](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/docker-containers.html)
+  - [예제 노트북: 자체 알고리즘 또는 모델 사용](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/docker-containers-notebooks.html)
 
 ## 문제 공식화
 - [핸즈온 머신러닝에서 제안한 머신러닝 프로젝트 체크리스트](https://github.com/ageron/handson-ml/blob/master/ml-project-checklist.md)
@@ -50,14 +54,14 @@
 - [선형 회귀 모델에서 '선형'이 의미하는 것은 무엇인가?](https://brunch.co.kr/@gimmesilver/18)
 - [차원 축소 - PCA, 주성분분석](https://excelsior-cjh.tistory.com/167)
 
-## EDA in Python
+### EDA in Python
 - [파이썬을 이용한 탐색적 자료 분석(Exploratory Data Analysis:EDA)](https://3months.tistory.com/325)
 - [Exploratory Data Analysis (EDA) in Python](https://medium.com/@atanudan/exploratory-data-analysis-eda-in-python-893f963cc0c0)
 
-## Pandas
+### Pandas
 - [Data preprocessing with Python Pandas](https://towardsdatascience.com/data-preprocessing-with-python-pandas-part-1-missing-data-45e76b781993)
 - [Pandas와 scikit-learn으로 정말 간단한 pre-processing 몇 가지 팁](https://teddylee777.github.io/scikit-learn/sklearn%EC%99%80-pandas%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D)
-- Pandas Profiling
+- Pandas Profiling - <span style="color: green">EDA 끝판왕!</span>
   - [Speed Up Your Exploratory Data Analysis With Pandas-Profiling](https://towardsdatascience.com/speed-up-your-exploratory-data-analysis-with-pandas-profiling-88b33dc53625)
   - [pandas의 극강의 라이브러리 Pandas Profiling](https://john-analyst.medium.com/pandas-%EC%9D%98-%EA%B7%B9%EA%B0%95%EC%9D%98-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-pandas-profiling-b5187dbcbd26)
 - [pandas를 SQL처럼 쓰는법](https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e)
