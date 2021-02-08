@@ -106,3 +106,4 @@
 - [AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/)
 - [KDNuggets](https://www.kdnuggets.com/)
 - [Towards Data Science](https://towardsdatascience.com/)
+  - [Don’t learn machine learning(머신러닝을 공부하지 마시오)](https://towardsdatascience.com/dont-learn-machine-learning-8af3cf946214) - 당신은 로그인 기능을 만들기 위해 커스텀 해시 함수를 제작하는가? 아니면 만들어진 해시 함수를 사용하는가?
