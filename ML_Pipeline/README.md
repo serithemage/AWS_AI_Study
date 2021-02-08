@@ -88,8 +88,8 @@
 - [교차검증](https://m.blog.naver.com/ckdgus1433/221599517834)
 - [혼동행렬](https://itwiki.kr/w/%ED%98%BC%EB%8F%99_%ED%96%89%EB%A0%AC)
 - [ROC curve](https://angeloyeo.github.io/2020/08/05/ROC.html)
-- [R Square](https://agronomy4future.com/2020/10/27/%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%EC%9D%98-%EA%B2%B0%EC%A0%95%EA%B3%84%EC%88%98-r-squared-%EB%A5%BC-%EA%B0%80%EC%9E%A5-%EC%89%BD%EA%B2%8C-%EC%84%A4%EB%AA%85%ED%95%B4-%EB%B3%B4%EC%9E%90/)
-  - [29가지 통계 개념 - 수정된 R제곱 무엇에 사용하는 것인가?](https://chukycheese.github.io/statistics/adjusted-r2/)
+- [결정계수(R Square)](https://medium.com/@Aaron__Kim/%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80%EC%9D%98-%EA%B2%B0%EC%A0%95%EA%B3%84%EC%88%98-linear-regression-r-squared-determination-coefficient-a66e4a32a9d6)
+  - [조정 결정 계수(Adjusted R Square)는 어디에 사용하는 것인가?](https://chukycheese.github.io/statistics/adjusted-r2/)
 
 ## 참고자료
 ### 서적
