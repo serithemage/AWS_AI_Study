@@ -93,6 +93,14 @@
   - [조정 결정 계수(Adjusted R Square)는 어디에 사용하는 것인가?](https://chukycheese.github.io/statistics/adjusted-r2/)
 
 ## 참고자료
+
+### 온라인 코스
+- [모두를 위한 딥러닝](https://hunkim.github.io/ml/)
+- [생활코딩 머신러닝](https://opentutorials.org/module/4916)
+- [개발자를 위한 실전 딥러닝](https://course.fast.ai/)
+- [Deep Learning - The Straight Dope](https://gluon.mxnet.io/)
+
+
 ### 서적
 - [비즈니스 머신러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B6474110466) - 아마존 세이지메이커와 주피터를 활용한 빠르고 효과적인 머신러닝 활용법
 - [세상에서 가장 쉬운 통계학 입문](http://www.yes24.com/Product/Goods/3625262)
