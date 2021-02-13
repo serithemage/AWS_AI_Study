@@ -55,6 +55,7 @@
 - [정규 분포로 분포 변환 (PowerTransformer, 로그 변환)](https://wikidocs.net/83559)
 - [선형 회귀 모델에서 '선형'이 의미하는 것은 무엇인가?](https://brunch.co.kr/@gimmesilver/18)
 - [차원 축소 - PCA, 주성분분석](https://excelsior-cjh.tistory.com/167)
+- [PCA 차원 축소 알고리즘 및 파이썬 구현 (주성분 분석)](https://www.youtube.com/watch?v=DUJ2vwjRQag)
 
 ### EDA in Python
 - [파이썬을 이용한 탐색적 자료 분석(Exploratory Data Analysis:EDA)](https://3months.tistory.com/325)
