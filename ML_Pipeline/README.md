@@ -36,6 +36,7 @@
 
 ## 문제 공식화
 - [핸즈온 머신러닝에서 제안한 머신러닝 프로젝트 체크리스트](https://github.com/ageron/handson-ml/blob/master/ml-project-checklist.md)
+- [보이지 않는 총알자국 - 생존자 편향](https://m.blog.naver.com/PostView.nhn?blogId=shc427118&logNo=220944502924)
 
 ## 데이터 분석 및 전처리
 - [Amazon SageMaker Ground Truth 처음 시작하기](https://aws.amazon.com/ko/getting-started/hands-on/build-training-datasets-amazon-sagemaker-ground-truth/)
