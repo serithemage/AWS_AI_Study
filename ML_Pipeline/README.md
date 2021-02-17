@@ -85,6 +85,7 @@
 - [SageMaker 하이퍼파라미터 튜닝작업 예제](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/automatic-model-tuning-ex.html)
 - [SageMaker Autopilot 사용 예제](https://aws.amazon.com/ko/getting-started/hands-on/create-machine-learning-model-automatically-sagemaker-autopilot/)
 - [SageMaker Autopilot Workshop](https://www.getstartedonsagemaker.com/workshop/)
+- [크로스 엔트로피](https://www.youtube.com/watch?v=Jt5BS71uVfI)
 
 ## 추론
 - [Amazon SageMaker 모델 레지스트리에 모델 등록 및 배포](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/model-registry.html)
