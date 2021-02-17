@@ -18,6 +18,10 @@
 - [파이썬 코딩도장](https://dojang.io/course/view.php?id=7)
 - [Learn Python On AWS Workshop](https://learn-to-code.workshop.aws/)
 
+## 수학 기초
+- [울프럼 알파(Wolfram Alpha) 사용법](https://www.youtube.com/watch?v=3vl7QUGMRMA)
+- [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw) - 알기쉽게 다양한 수학 개념을 설명하는 유튜브입니다.
+
 ## Jupyter notebook
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [How to Use Jupyter Notebook in 2020: A Beginner’s Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
@@ -46,7 +50,8 @@
 - [One-Hot 인코딩 이란?](https://www.kakaobrain.com/blog/6)
 - [어떤 스케일러를 쓸 것인가? StandardScaler, MinMaxScaler, MaxAbsScaler, RobustScaler](https://mkjjo.github.io/python/2019/01/10/scaler.html)
 - [평균에 대한 정리(mean, median, mode)](https://blog.acronym.co.kr/401)
-- [t-SNE 개념과 사용법](https://gaussian37.github.io/ml-concept-t-SNE/)
+- [차원축소 시각화 t-SNE](https://www.youtube.com/watch?v=a__3LhLkBMw)
+  - [t-SNE 개념과 사용법](https://gaussian37.github.io/ml-concept-t-SNE/)
 - [boxplot 해석방법](https://codedragon.tistory.com/7012)
 - [왜도와 첨도](https://m.blog.naver.com/PostView.nhn?blogId=s2ak74&logNo=220616766539&proxyReferer=https:%2F%2Fwww.google.com%2F)
 - [결측치 처리](https://wooono.tistory.com/103)
