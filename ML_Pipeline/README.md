@@ -59,6 +59,7 @@
 - [차원 축소 - PCA, 주성분분석](https://excelsior-cjh.tistory.com/167)
 - [PCA 차원 축소 알고리즘 및 파이썬 구현 (주성분 분석)](https://www.youtube.com/watch?v=DUJ2vwjRQag)
 - [One-hot 인코딩 쉽게 하기](https://minjejeon.github.io/learningstock/2017/06/05/easy-one-hot-encoding.html)
+- [피어슨 상관관계](https://ko.wikipedia.org/wiki/%ED%94%BC%EC%96%B4%EC%8A%A8_%EC%83%81%EA%B4%80_%EA%B3%84%EC%88%98)
 
 ### EDA in Python
 - [파이썬을 이용한 탐색적 자료 분석(Exploratory Data Analysis:EDA)](https://3months.tistory.com/325)
