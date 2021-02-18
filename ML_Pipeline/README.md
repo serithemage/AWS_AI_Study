@@ -43,12 +43,13 @@
 - [핸즈온 머신러닝에서 제안한 머신러닝 프로젝트 체크리스트](https://github.com/ageron/handson-ml/blob/master/ml-project-checklist.md)
 - [보이지 않는 총알자국 - 생존자 편향](https://m.blog.naver.com/PostView.nhn?blogId=shc427118&logNo=220944502924)
 
-## 데이터 분석 및 전처리
+## 분석,전처리, 피처 엔지니어링
 - [Amazon SageMaker Ground Truth 처음 시작하기](https://aws.amazon.com/ko/getting-started/hands-on/build-training-datasets-amazon-sagemaker-ground-truth/)
 - [Open source data labeling tools](https://github.com/heartexlabs/awesome-data-labeling)
-- [주성분 분석(PCA) 설명](https://angeloyeo.github.io/2019/07/27/PCA.html)
 - [One-Hot 인코딩 이란?](https://www.kakaobrain.com/blog/6)
 - [어떤 스케일러를 쓸 것인가? StandardScaler, MinMaxScaler, MaxAbsScaler, RobustScaler](https://mkjjo.github.io/python/2019/01/10/scaler.html)
+- [이상치(outlier)에 대하여](https://nittaku.tistory.com/450)
+  - [아웃라이어 제거](https://mkjjo.github.io/python/2019/01/10/outlier.html)
 - [평균에 대한 정리(mean, median, mode)](https://blog.acronym.co.kr/401)
 - [차원축소 시각화 t-SNE](https://www.youtube.com/watch?v=a__3LhLkBMw)
   - [t-SNE 개념과 사용법](https://gaussian37.github.io/ml-concept-t-SNE/)
@@ -61,8 +62,9 @@
   - [위 문서에 나온 numpy.log1p(=log(1+x))의 모양](https://www.wolframalpha.com/input/?i=log%281+%2B+x%29)
 - [정규 분포로 분포 변환 (PowerTransformer, 로그 변환)](https://wikidocs.net/83559)
 - [선형 회귀 모델에서 '선형'이 의미하는 것은 무엇인가?](https://brunch.co.kr/@gimmesilver/18)
-- [차원 축소 - PCA, 주성분분석](https://excelsior-cjh.tistory.com/167)
-- [PCA 차원 축소 알고리즘 및 파이썬 구현 (주성분 분석)](https://www.youtube.com/watch?v=DUJ2vwjRQag)
+- [주성분 분석(PCA) 설명](https://angeloyeo.github.io/2019/07/27/PCA.html)
+  - [차원 축소 - PCA, 주성분분석](https://excelsior-cjh.tistory.com/167) - 조금 더 자세한 설명
+  - [PCA 차원 축소 알고리즘 및 파이썬 구현 (주성분 분석)](https://www.youtube.com/watch?v=DUJ2vwjRQag)
 - [One-hot 인코딩 쉽게 하기](https://minjejeon.github.io/learningstock/2017/06/05/easy-one-hot-encoding.html)
 - [피어슨 상관관계](https://ko.wikipedia.org/wiki/%ED%94%BC%EC%96%B4%EC%8A%A8_%EC%83%81%EA%B4%80_%EA%B3%84%EC%88%98)
 - [상관계수를 이용한 특징 선택에 대하여](https://towardsdatascience.com/feature-selection-correlation-and-p-value-da8921bfb3cf)
