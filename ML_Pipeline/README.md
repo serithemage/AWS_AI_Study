@@ -86,7 +86,7 @@
 - [SageMaker 하이퍼파라미터 튜닝작업 예제](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/automatic-model-tuning-ex.html)
 - [SageMaker Autopilot 사용 예제](https://aws.amazon.com/ko/getting-started/hands-on/create-machine-learning-model-automatically-sagemaker-autopilot/)
 - [SageMaker Autopilot Workshop](https://www.getstartedonsagemaker.com/workshop/)
-- [크로스 엔트로피](https://www.youtube.com/watch?v=Jt5BS71uVfI)
+
 
 ## 추론
 - [Amazon SageMaker 모델 레지스트리에 모델 등록 및 배포](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/model-registry.html)
@@ -103,6 +103,8 @@
 - [회귀 모델의 적합도](https://m.blog.naver.com/samsjang/221003939973)
 - [결정계수(R Square)](https://medium.com/@Aaron__Kim/%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80%EC%9D%98-%EA%B2%B0%EC%A0%95%EA%B3%84%EC%88%98-linear-regression-r-squared-determination-coefficient-a66e4a32a9d6)
   - [조정 결정 계수(Adjusted R Square)는 어디에 사용하는 것인가?](https://chukycheese.github.io/statistics/adjusted-r2/)
+- [크로스 엔트로피](https://www.youtube.com/watch?v=Jt5BS71uVfI)
+- [사이킷런 (scikit learn) 에서의 교차검증 (cross validation), Kfold 정리](https://sgmath.tistory.com/61)
 
 ## 참고자료
 
