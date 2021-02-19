@@ -35,6 +35,7 @@
   - [auto-stop-idle](https://github.com/aws-samples/amazon-sagemaker-notebook-instance-lifecycle-config-samples/tree/master/scripts/auto-stop-idle) - 1시간 이상 노트북 사용이 없을 경우 자동으로 중지시키는 스크립트
 - [SageMaker 내장 알고리즘](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/algos.html)
 - [SageMaker Script Mode 예제](https://github.com/aws-samples/amazon-sagemaker-script-mode)
+- [SageMaker AutoPilot 예제](https://aws.amazon.com/ko/getting-started/hands-on/create-machine-learning-model-automatically-sagemaker-autopilot/)
 - [SageMaker BYOC(Bring Your Own Container)](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/docker-containers.html)
   - [예제 노트북: 자체 알고리즘 또는 모델 사용](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/docker-containers-notebooks.html)
   - [한글 핸즈온 - BRING-YOUR-OWN-CONTAINER 기능 실습하기](https://www.sagemaker-workshop-kr.com/kr/sagemaker/_module_8.html)
