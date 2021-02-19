@@ -117,6 +117,11 @@
 - [크로스 엔트로피](https://www.youtube.com/watch?v=Jt5BS71uVfI)
 - [사이킷런 (scikit learn) 에서의 교차검증 (cross validation), Kfold 정리](https://sgmath.tistory.com/61)
 
+## 완전 자동화된 ML
+- [Gluon AutoML](https://auto.gluon.ai/stable/index.html) - 강추!
+- [SageMaker AutoPilot](https://aws.amazon.com/ko/sagemaker/autopilot/)
+  - [SageMaker AutoPilot 예제](https://aws.amazon.com/ko/getting-started/hands-on/create-machine-learning-model-automatically-sagemaker-autopilot/)
+
 ## 참고자료
 
 ### 온라인 코스
