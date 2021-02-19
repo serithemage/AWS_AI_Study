@@ -102,6 +102,8 @@
 - [Amazon SageMaker Model Monitor](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/model-monitor.html)
   - [Amazon SageMaker Model Monitor – Fully Managed Automatic Monitoring For Your Machine Learning Models](https://aws.amazon.com/ko/blogs/aws/amazon-sagemaker-model-monitor-fully-managed-automatic-monitoring-for-your-machine-learning-models/)
 - [추론 파이프라인 배포](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/inference-pipelines.html)
+- [SageMaker를 사용한 배치 추론](https://docs.aws.amazon.com/sagemaker/latest/dg/how-it-works-batch.html)
+- [SageMaker를 사용한 실시간 추론](https://docs.aws.amazon.com/sagemaker/latest/dg/inference-pipeline-real-time.html)
 - [Amazon SageMaker Endpoint Auto Scaling](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/endpoint-auto-scaling.html)
 
 ## 검증
