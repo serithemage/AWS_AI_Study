@@ -122,6 +122,11 @@
 - [SageMaker AutoPilot](https://aws.amazon.com/ko/sagemaker/autopilot/)
   - [SageMaker AutoPilot 예제](https://aws.amazon.com/ko/getting-started/hands-on/create-machine-learning-model-automatically-sagemaker-autopilot/)
 
+## 프로덕션 ML 워크로드를 위한 자료들
+- [기계 학습 렌즈 AWS Well-Architected 프레임워크](https://docs.aws.amazon.com/ko_kr/wellarchitected/latest/machine-learning-lens/wellarchitected-machine-learning-lens.pdf) - ML을 위한 Well-Architected 프레임워크
+- [AWS를 사용하여 전체 기계 학습 수명주기를 설계 및 구축하는 법 : End to End Amazon SageMaker 데모](https://aws.amazon.com/ko/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/)
+- [Amazon SageMaker MLOps 실습](https://github.com/aws-samples/mlops-amazon-sagemaker-devops-with-ml)
+
 ## 참고자료
 
 ### 온라인 코스
