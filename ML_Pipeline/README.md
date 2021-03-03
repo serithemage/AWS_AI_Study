@@ -39,12 +39,13 @@
 - [SageMaker BYOC(Bring Your Own Container)](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/docker-containers.html)
   - [예제 노트북: 자체 알고리즘 또는 모델 사용](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/docker-containers-notebooks.html)
   - [한글 핸즈온 - BRING-YOUR-OWN-CONTAINER 기능 실습하기](https://www.sagemaker-workshop-kr.com/kr/sagemaker/_module_8.html)
+- [AWS를 사용하여 전체 기계 학습 수명주기 설계 및 구축 : End-to-End Amazon SageMaker Demo](https://aws.amazon.com/ko/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/)
 
 ## 문제 공식화
 - [핸즈온 머신러닝에서 제안한 머신러닝 프로젝트 체크리스트](https://github.com/ageron/handson-ml/blob/master/ml-project-checklist.md)
 - [보이지 않는 총알자국 - 생존자 편향](https://m.blog.naver.com/PostView.nhn?blogId=shc427118&logNo=220944502924)
 
-## 분석,전처리, 피처 엔지니어링
+## 분석, 전처리, 피처 엔지니어링
 - [Amazon SageMaker Ground Truth 처음 시작하기](https://aws.amazon.com/ko/getting-started/hands-on/build-training-datasets-amazon-sagemaker-ground-truth/)
 - [Open source data labeling tools](https://github.com/heartexlabs/awesome-data-labeling)
 - [One-Hot 인코딩 이란?](https://www.kakaobrain.com/blog/6)
