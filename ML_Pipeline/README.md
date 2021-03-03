@@ -88,6 +88,7 @@
 - [머신 러닝의 모델 평가와 모델 선택, 알고리즘 선택](https://tensorflow.blog/%EB%A8%B8%EC%8B%A0-%EB%9F%AC%EB%8B%9D%EC%9D%98-%EB%AA%A8%EB%8D%B8-%ED%8F%89%EA%B0%80%EC%99%80-%EB%AA%A8%EB%8D%B8-%EC%84%A0%ED%83%9D-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%84%A0%ED%83%9D-1/)
 - [Browse State-of-the-Art](https://paperswithcode.com/sota)
 - [Overview: State-of-the-Art Machine Learning Algorithms per Discipline & per Task](https://towardsdatascience.com/overview-state-of-the-art-machine-learning-algorithms-per-discipline-per-task-c1a16a66b8bb)
+- [XGBoost 심화학습](https://housekdk.gitbook.io/ml/ml/tabular/xgboost)
 
 ## 트레이닝
 - [SageMaker 처음 사용자용 훈련 예제](https://aws.amazon.com/ko/getting-started/hands-on/build-train-deploy-machine-learning-model-sagemaker/)
