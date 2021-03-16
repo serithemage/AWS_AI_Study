@@ -9,6 +9,7 @@
 - AWS 기반 빅데이터 학습자료집 http://bit.ly/bdonaws
 - AWS 딥러닝 학습 자료 모음집 http://bit.ly/dlonaws
 - 2019년 re:Invent 에서 공개된 AI/ML관련 서비스 소개 http://bit.ly/2019-ml-recap
+- AWS The Machine Learning pipeline on AWS 교육 학습 자료집 http://bit.ly/ml-pipeline
 
 
 ## 수업 데모  
