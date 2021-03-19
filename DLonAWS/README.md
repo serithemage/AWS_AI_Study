@@ -25,7 +25,7 @@
 [Dive into Deep Learning (한글판)](http://ko.d2l.ai) - KDnuggets이 선정한 반드시 읽어야 할 10권의 무료 머신러닝 서적 중 하나. Jupyter notebook을 통해 직접 따라해 보면서 배울 수 있습니다.  
 [Dive into Deep Learning (영문판)](http://en.diveintodeeplearning.org/index.html) MXNet 커뮤니티에서 만든 무료 딥러닝 학습서  
 [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
-[초보자를 위한 Jupyter Notebook 소개 영상(유튜브)](https://www.youtube.com/watch?v=sqMYhAIaYZQ)  
+[딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)  
 [Deep Learning Book - Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)  
 
 ## AWS AI 서비스 관련 온라인 강의 
