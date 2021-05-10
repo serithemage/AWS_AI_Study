@@ -131,6 +131,7 @@
 - [기계 학습 렌즈 AWS Well-Architected 프레임워크](https://docs.aws.amazon.com/ko_kr/wellarchitected/latest/machine-learning-lens/wellarchitected-machine-learning-lens.pdf) - ML을 위한 Well-Architected 프레임워크
 - [AWS를 사용하여 전체 기계 학습 수명주기를 설계 및 구축하는 법 : End to End Amazon SageMaker 데모](https://aws.amazon.com/ko/blogs/machine-learning/architect-and-build-the-full-machine-learning-lifecycle-with-amazon-sagemaker/)
 - [Amazon SageMaker MLOps 실습](https://github.com/aws-samples/mlops-amazon-sagemaker-devops-with-ml)
+- [From DevOps to MLOPS: Integrate Machine Learning Models using Jenkins and Docker](https://towardsdatascience.com/from-devops-to-mlops-integrate-machine-learning-models-using-jenkins-and-docker-79034dbedf1)
 
 ## 참고자료
 
