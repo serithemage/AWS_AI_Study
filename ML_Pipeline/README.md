@@ -136,6 +136,7 @@
 ## 참고자료
 
 ### 온라인 코스
+- [Amazon Machine Learning University](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw) 
 - [모두를 위한 딥러닝](https://hunkim.github.io/ml/)
 - [생활코딩 머신러닝](https://opentutorials.org/module/4916)
 - [개발자를 위한 실전 딥러닝](https://course.fast.ai/)
