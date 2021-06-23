@@ -1,6 +1,17 @@
 # The Machine Learning pipeline on AWS(http://bit.ly/ml-pipeline)
 > 이 곳은 The Machine Learning pipeline on AWS 수업을 위한 자료 모음집 입니다.
 
+> AWS 학습 링크집 시리즈
+- AWS 트레이닝 및 자격증 소개 http://bit.ly/aws-tnc-intro
+- AWS 학습 자료집 http://bit.ly/aws-study-resource
+- AWS 공인 솔루션스 아키텍트 - 어소시에이트 수험 가이드  http://bit.ly/sacertguide
+- AWS 공인 개발자 - 어소시에이트 수험 가이드  http://bit.ly/devcertguide
+- AWS 보안 관련 컨텐츠 모음집  http://bit.ly/secontents
+- AWS 기반 빅데이터 학습자료집 http://bit.ly/bdonaws
+- AWS 딥러닝 학습 자료 모음집 http://bit.ly/dlonaws
+- 2019년 re:Invent 에서 공개된 AI/ML관련 서비스 소개 http://bit.ly/2019-ml-recap
+- AWS The Machine Learning pipeline on AWS 교육 학습 자료집 http://bit.ly/ml-pipeline
+
 ## 실습 & 워크숍
 ### 실습1 - Project: Bank Marketing Prediction a.k.a Capstone Project(정기예금 전화 마케팅 예측)
 - [Project: Bank Marketing Prediction](https://github.com/shashankvarshney/MLND-Capstone-project-Bank-Marketing-Prediction) - 분석 및 예측 전반에 걸친 세세한 내용이 잘 정리된 github 리포지토리입니다.
