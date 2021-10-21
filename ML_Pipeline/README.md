@@ -17,8 +17,9 @@
 - [Project: Bank Marketing Prediction](https://github.com/shashankvarshney/MLND-Capstone-project-Bank-Marketing-Prediction) - 분석 및 예측 전반에 걸친 세세한 내용이 잘 정리된 github 리포지토리입니다.
 - [Getting started with TensorFlow 2](https://www.coursera.org/learn/getting-started-with-tensor-flow2/home/welcome) - Coursera에 개설되어 있는 강의로 청강은 무료입니다. 5주 구성으로 되어 있으며 마지막 5주차에 Capstone프로젝트를 다룹니다. 이론과 실습의 균형이 잘 잡혀 있는 강의로 기계번역티가 많이 나긴 하지만 한글 자막도 제공됩니다.
 
-### 워크숍 - 아마존 리뷰
+### 워크숍 - 아마존 비디오 리뷰
 - [Amazon Customer Reviews Dataset](https://s3.amazonaws.com/amazon-reviews-pds/readme.html)
+  - [Netflix의 추천 시스템에 대해 자세히 알아보기](https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48)
 ### 워크숍 - 신용카드 사기 탐지
 - [신용카드 사기 거래 감지하기](https://laboputer.github.io/machine-learning/2020/05/29/creditcardfraud/) - EDA와 데이터 클랜징 뿐만 아니라 알고리즘 선택과 모델 학습까지 정리된 블로그 글
 - [Credit Fraud || Dealing with Imbalanced Datasets(Kaggle)](https://www.kaggle.com/janiobachmann/credit-fraud-dealing-with-imbalanced-datasets)
