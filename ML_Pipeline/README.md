@@ -31,6 +31,7 @@
 - [Learn Python On AWS Workshop](https://learn-to-code.workshop.aws/)
 
 ## 수학 기초
+- [수학을 위한 구글 - 울프럼 알파](https://www.wolframalpha.com/)
 - [울프럼 알파(Wolfram Alpha) 사용법](https://www.youtube.com/watch?v=3vl7QUGMRMA)
 - [3Blue1Brown 한국어](https://www.youtube.com/channel/UCJK07Uk2KY9r78ksPoXg-3g) - 알기쉽게 다양한 수학 개념을 설명하는 유튜브인 3Blue1Brown이 한국어 자막과 함께 제공됩니다.
 
