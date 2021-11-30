@@ -37,6 +37,7 @@
 
 ## Jupyter notebook
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Jupyter notebook CheatSheet](https://www.edureka.co/blog/wp-content/uploads/2018/10/Jupyter_Notebook_CheatSheet_Edureka.pdf)
 - [How to Use Jupyter Notebook in 2020: A Beginner’s Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 - [Jupyter Notebook Tutorial: Introduction, Setup, and Walkthrough(영상 튜토리얼)](https://www.youtube.com/watch?v=HW29067qVWk)
 
