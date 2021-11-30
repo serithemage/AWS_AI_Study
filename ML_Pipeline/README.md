@@ -126,6 +126,7 @@
 - [Amazon SageMaker Endpoint Auto Scaling](https://docs.aws.amazon.com/ko_kr/sagemaker/latest/dg/endpoint-auto-scaling.html)
 
 ## 검증
+- [훈련 데이터셋을 나누는 이유](https://hyjykelly.tistory.com/44)
 - [교차검증](https://m.blog.naver.com/ckdgus1433/221599517834)
 - [혼동행렬](https://itwiki.kr/w/%ED%98%BC%EB%8F%99_%ED%96%89%EB%A0%AC)
 - [ROC curve](https://angeloyeo.github.io/2020/08/05/ROC.html)
