@@ -132,13 +132,16 @@
 ## 검증
 - [훈련 데이터셋을 나누는 이유](https://hyjykelly.tistory.com/44)
 - [교차검증](https://m.blog.naver.com/ckdgus1433/221599517834)
+  - [사이킷런 (scikit learn) 에서의 교차검증 (cross validation), Kfold 정리](https://sgmath.tistory.com/61)
+  - [StratifiedKFold v.s KFold v.s StratifiedShuffleSplit](https://xzz201920.medium.com/stratifiedkfold-v-s-kfold-v-s-stratifiedshufflesplit-ffcae5bfdf)
 - [혼동행렬](https://itwiki.kr/w/%ED%98%BC%EB%8F%99_%ED%96%89%EB%A0%AC)
 - [ROC curve](https://angeloyeo.github.io/2020/08/05/ROC.html)
 - [회귀 모델의 적합도](https://m.blog.naver.com/samsjang/221003939973)
 - [결정계수(R Square)](https://medium.com/@Aaron__Kim/%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80%EC%9D%98-%EA%B2%B0%EC%A0%95%EA%B3%84%EC%88%98-linear-regression-r-squared-determination-coefficient-a66e4a32a9d6)
   - [조정 결정 계수(Adjusted R Square)는 어디에 사용하는 것인가?](https://chukycheese.github.io/statistics/adjusted-r2/)
 - [크로스 엔트로피](https://www.youtube.com/watch?v=Jt5BS71uVfI)
-- [사이킷런 (scikit learn) 에서의 교차검증 (cross validation), Kfold 정리](https://sgmath.tistory.com/61)
+
+
 
 ## 완전 자동화된 ML
 - [Gluon AutoML](https://auto.gluon.ai/stable/index.html) - 강추!
