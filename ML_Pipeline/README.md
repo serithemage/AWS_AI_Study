@@ -83,6 +83,7 @@
 - [주성분 분석(PCA) 설명](https://angeloyeo.github.io/2019/07/27/PCA.html)
   - [차원 축소 - PCA, 주성분분석](https://excelsior-cjh.tistory.com/167) - 조금 더 자세한 설명
   - [PCA 차원 축소 알고리즘 및 파이썬 구현 (주성분 분석)](https://www.youtube.com/watch?v=DUJ2vwjRQag)
+  - [SVD와 PCA, 그리고 잠재의미분석(LSA)](https://ratsgo.github.io/from%20frequency%20to%20semantics/2017/04/06/pcasvdlsa/)
 - [One-hot 인코딩 쉽게 하기](https://minjejeon.github.io/learningstock/2017/06/05/easy-one-hot-encoding.html)
 - [피어슨 상관관계](https://ko.wikipedia.org/wiki/%ED%94%BC%EC%96%B4%EC%8A%A8_%EC%83%81%EA%B4%80_%EA%B3%84%EC%88%98)
 - [상관계수를 이용한 특징 선택에 대하여](https://towardsdatascience.com/feature-selection-correlation-and-p-value-da8921bfb3cf)
@@ -144,9 +145,11 @@
 
 
 ## 완전 자동화된 ML
-- [Gluon AutoML](https://auto.gluon.ai/stable/index.html) - 강추!
+- [Amazon SageMaker Canvas 발표 – 비즈니스 분석가를 위한 손쉬운 노코드 기계 학습 기능](https://aws.amazon.com/ko/blogs/korea/announcing-amazon-sagemaker-canvas-a-visual-no-code-machine-learning-capability-for-business-analysts/)
+- [Gluon AutoML](https://auto.gluon.ai/stable/index.html)
 - [SageMaker AutoPilot](https://aws.amazon.com/ko/sagemaker/autopilot/)
   - [SageMaker AutoPilot 예제](https://aws.amazon.com/ko/getting-started/hands-on/create-machine-learning-model-automatically-sagemaker-autopilot/)
+- [PyCaret 튜토리얼(회귀)](https://github.com/serithemage/DataScienctPractice/blob/main/PyCaret%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC_%ED%9A%8C%EA%B7%80.ipynb)
 
 ## MLOps - 프로덕션 ML 워크로드를 위한 자료들
 - [기계 학습 렌즈 AWS Well-Architected 프레임워크](https://docs.aws.amazon.com/ko_kr/wellarchitected/latest/machine-learning-lens/wellarchitected-machine-learning-lens.pdf) - ML을 위한 Well-Architected 프레임워크
